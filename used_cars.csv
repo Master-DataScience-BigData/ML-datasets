@@ -1,0 +1,1531 @@
+,nom,version,price,model,localisation,carburant
+0,MERCEDES  190,,72 000 Dhs,1992,Nador,Diesel
+1,VOLKSWAGEN  Touran,,175 000 Dhs,2014,Nador,Diesel
+2,MERCEDES  Classe ml320,320,105 000 Dhs,2006,Nador,Diesel
+3,MERCEDES  Classe cC220,C220,98 000 Dhs,2004,Nador,Diesel
+4,MERCEDES  Classe c350 cdi,350 cdi,108 000 Dhs,2008,Nador,Diesel
+5,JEEP  Wrangler,,285 000 Dhs,2016,Casablanca,Diesel
+6,MERCEDES  Classe e coupe,,470 000 Dhs,2017,Casablanca,Diesel
+7,FORD  Focus 5p,,210 000 Dhs,2023,Casablanca,Diesel
+8,OPEL  Astra,,140 000 Dhs,2017,Casablanca,Diesel
+9,MERCEDES  Classe c,,329 000 Dhs,2018,Casablanca,Diesel
+10,HONDA  Jazz,,57 000 Dhs,2008,Casablanca,Essence
+11,DACIA  Logan,,125 000 Dhs,2023,Casablanca,Essence
+12,SUZUKI  Celerio,,54 000 Dhs,2012,Casablanca,Essence
+13,HONDA  Accord,,99 000 Dhs,2011,Casablanca,Diesel
+14,KIA  Carens,,64 000 Dhs,2009,Casablanca,Diesel
+15,FIAT  500,,145 000 Dhs,2023,Casablanca,Essence
+16,JEEP  Renegade,,216 000 Dhs,2022,Casablanca,Diesel
+17,FIAT  500,,163 500 Dhs,2024,Casablanca,Essence
+18,FIAT  500x,,230 000 Dhs,2023,Casablanca,Essence
+19,JEEP  Compass,,320 000 Dhs,2023,Casablanca,Hybride
+20,JEEP  Compass,,240 000 Dhs,2022,Casablanca,Essence
+21,FIAT  500,,163 500 Dhs,2024,Casablanca,Essence
+22,JEEP  Compass,,240 000 Dhs,2022,Casablanca,Essence
+23,JEEP  Compass,,240 000 Dhs,2022,Casablanca,Essence
+24,FIAT  AutreCargo,Cargo,130 000 Dhs,2023,Casablanca,Essence
+25,AUDI  Q2,,Appeler pour le prix,2018,El jadida,Diesel
+26,JEEP  Renegade,,Appeler pour le prix,2021,El jadida,Diesel
+27,JEEP  Renegade,,Appeler pour le prix,2019,El jadida,Diesel
+28,BMW  Serie 3,,Appeler pour le prix,2019,El jadida,Diesel
+29,MERCEDES  Classe c,,Appeler pour le prix,2017,El jadida,Diesel
+30,VOLKSWAGEN  Touareg,,Appeler pour le prix,2012,Meknes,Diesel
+31,JEEP  Compass,,Appeler pour le prix,2016,Meknes,Diesel
+32,LAND-ROVER  Range rover evoque,,Appeler pour le prix,2014,Meknes,Diesel
+33,VOLKSWAGEN  Passat,,Appeler pour le prix,2007,Meknes,Diesel
+34,VOLKSWAGEN  Caddy,,Appeler pour le prix,2017,Meknes,Diesel
+35,BMW  X5Pack m,Pack m,555 000 Dhs,2019,Casablanca,Diesel
+36,JEEP  CherokeeEd,Ed,185 000 Dhs,2016,Casablanca,Diesel
+37,JEEP  Cherokee,,315 000 Dhs,2021,Casablanca,Diesel
+38,VOLKSWAGEN  Tiguan2.0l tdi,2.0l tdi,180 000 Dhs,2016,Casablanca,Diesel
+39,JAGUAR  XfLuxury,Luxury,295 000 Dhs,2019,Casablanca,Diesel
+40,HYUNDAI  TucsonUltimate,Ultimate,Appeler pour le prix,2017,Casablanca,Diesel
+41,PEUGEOT  208,,104 000 Dhs,2019,Fes,Diesel
+42,VOLKSWAGEN  Polo,,102 000 Dhs,2014,Fes,Diesel
+43,RENAULT  Clio,,102 000 Dhs,2019,Fes,Diesel
+44,DACIA  Duster,,183 000 Dhs,2021,Fes,Diesel
+45,PEUGEOT  208,,162 000 Dhs,2022,Fes,Diesel
+46,FIAT  500,,Appeler pour le prix,2022,Casablanca,Essence
+47,RENAULT  Clio,,Appeler pour le prix,2021,Casablanca,Essence
+48,AUDI  Q8,,Appeler pour le prix,2023,Casablanca,Diesel
+49,AUDI  Rs-q3,,Appeler pour le prix,2024,Casablanca,Essence
+50,MERCEDES  Glc coupe,,Appeler pour le prix,2023,Casablanca,Diesel
+51,MERCEDES  Gle coupe,,Appeler pour le prix,2023,Casablanca,Diesel
+52,AUDI  Q8,,Appeler pour le prix,2023,Casablanca,Diesel
+53,SEAT  Ateca,,380 000 Dhs,2023,Tetouan,Diesel
+54,PEUGEOT  2008,,220 000 Dhs,2020,Tetouan,Diesel
+55,SEAT  Ateca,,380 000 Dhs,2024,Tetouan,Diesel
+56,DACIA  Duster,,233 000 Dhs,2022,Tetouan,Diesel
+57,DS  Ds3,,115 000 Dhs,2016,Tetouan,Essence
+58,OPEL  Crossland,,190 000 Dhs,2021,Casablanca,Diesel
+59,DACIA  Dokker,,114 000 Dhs,2019,Casablanca,Diesel
+60,LAND-ROVER  Range rover evoque,,185 000 Dhs,2014,Casablanca,Diesel
+61,BMW  Serie 4 gran coupe,,238 000 Dhs,2016,Casablanca,Diesel
+62,HYUNDAI  Tucson,,Appeler pour le prix,2022,Casablanca,Diesel
+63,LAND-ROVER  Range roverÉvoque…,Évoque…,260 000 Dhs,2018,Casablanca,Diesel
+64,LAND-ROVER  Range rover sport,,Appeler pour le prix,2016,Casablanca,Diesel
+65,PORSCHE  Macan,,Appeler pour le prix,2021,Casablanca,Essence
+66,AUDI  Rs-q3Fuul carbon,Fuul carbon,690 000 Dhs,2021,Casablanca,Essence
+67,MERCEDES  Classe c220d pack amg,220d pack amg,340 000 Dhs,2016,Casablanca,Diesel
+68,BMW  X1,,Appeler pour le prix,2016,Casablanca,Diesel
+69,BMW  X3,,Appeler pour le prix,2020,Casablanca,Diesel
+70,BMW  X3,,Appeler pour le prix,2022,Casablanca,Diesel
+71,AUDI  Q5,,Appeler pour le prix,2021,Casablanca,Diesel
+72,AUDI  Q8,,Appeler pour le prix,2020,Casablanca,Diesel
+73,VOLVO  S60R design,R design,175 000 Dhs,2019,Casablanca,Diesel
+74,NISSAN  X trail,,185 000 Dhs,2019,Casablanca,Diesel
+75,VOLKSWAGEN  Touareg,,349 000 Dhs,2020,Casablanca,Diesel
+76,VOLVO  Xc90,,369 000 Dhs,2020,Casablanca,Diesel
+77,VOLVO  Xc60,,205 000 Dhs,2018,Casablanca,Diesel
+78,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2018,Casablanca,Diesel
+79,VOLKSWAGEN  Golf 7,,Appeler pour le prix,2018,Casablanca,Diesel
+80,AUDI  Autre,,265 000 Dhs,2015,Casablanca,Diesel
+81,MERCEDES  Classe a,,Appeler pour le prix,2020,Casablanca,Diesel
+82,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2021,Casablanca,Diesel
+83,HYUNDAI  AccentMaestro,Maestro,Appeler pour le prix,2019,Casablanca,Diesel
+84,FORD  KugaSt line,St line,Appeler pour le prix,2019,Casablanca,Diesel
+85,NISSAN  Qashqai,,Appeler pour le prix,2020,Casablanca,Diesel
+86,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2019,Casablanca,Diesel
+87,FORD  KugaSt line,St line,Appeler pour le prix,2019,Casablanca,Diesel
+88,VOLKSWAGEN  PassatComfortlien,Comfortlien,Appeler pour le prix,2019,Casablanca,Diesel
+89,DS  Ds7Revoli,Revoli,Appeler pour le prix,2019,Casablanca,Diesel
+90,MERCEDES  Classe e,,Appeler pour le prix,2018,Casablanca,Diesel
+91,VOLKSWAGEN  TiguanExecutive,Executive,Appeler pour le prix,2018,Casablanca,Diesel
+92,HYUNDAI  TucsonUltimate,Ultimate,Appeler pour le prix,2018,Casablanca,Diesel
+93,AUDI  Q7,,Appeler pour le prix,2018,Casablanca,Diesel
+94,RENAULT  Megane sedan,,160 000 Dhs,2020,Casablanca,Diesel
+95,RENAULT  Clio,,120 000 Dhs,2020,Casablanca,Diesel
+96,MITSUBISHI  Pajero sport,,240 000 Dhs,2018,Casablanca,Diesel
+97,SEAT  Altea xl,,138 000 Dhs,2016,Casablanca,Diesel
+98,ALFA-ROMEO  Giulietta,,Appeler pour le prix,2019,Casablanca,Diesel
+99,PORSCHE  Cayenne,,Appeler pour le prix,2016,Casablanca,Diesel
+100,PORSCHE  Macan,,Appeler pour le prix,2024,Casablanca,Essence
+101,AUDI  Q3 sportbackS-line,S-line,Appeler pour le prix,2024,Casablanca,Diesel
+102,MERCEDES  Classe c,,Appeler pour le prix,2024,Casablanca,Hybride
+103,MERCEDES  Glc coupeAmg line +,Amg line +,Appeler pour le prix,2024,Casablanca,Hybride
+104,AUDI  Q3 sportbackS-line,S-line,Appeler pour le prix,2023,Casablanca,Diesel
+105,MERCEDES  Classe c,,Appeler pour le prix,2022,Rabat,Diesel
+106,MERCEDES  Gle coupe,,Appeler pour le prix,2024,Rabat,Hybride
+107,MERCEDES  Cla,,Appeler pour le prix,2023,Rabat,Diesel
+108,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2021,Rabat,Diesel
+109,MERCEDES  Gle coupe,,Appeler pour le prix,2022,Rabat,Hybride
+110,VOLKSWAGEN  T-roc,,Appeler pour le prix,2024,Rabat,Essence
+111,MERCEDES  Cla,,Appeler pour le prix,2020,Rabat,Diesel
+112,MERCEDES  Classe c,,Appeler pour le prix,2023,Rabat,Diesel
+113,AUDI  Q5,,Appeler pour le prix,2018,Rabat,Diesel
+114,MERCEDES  Glc,,Appeler pour le prix,2024,Rabat,Hybride
+115,HYUNDAI  I40,,158 000 Dhs,2018,Casablanca,Diesel
+116,VOLKSWAGEN  Golf 8,,480 000 Dhs,2023,Casablanca,Diesel
+117,NISSAN  Juke,,125 000 Dhs,2015,Casablanca,Diesel
+118,FIAT  500,,144 000 Dhs,2021,Casablanca,Essence
+119,HYUNDAI  Accent,,160 000 Dhs,2021,Casablanca,Diesel
+120,MERCEDES  Classe ePack amg line…,Pack amg line…,420 000 Dhs,2018,Casablanca,Diesel
+121,DACIA  Dokker,,Appeler pour le prix,2017,Tetouan,Diesel
+122,TOYOTA  Rav-4,,Appeler pour le prix,2006,Tetouan,Diesel
+123,MERCEDES  220,,Appeler pour le prix,2011,Tetouan,Diesel
+124,TOYOTA  Rav-4,,Appeler pour le prix,2006,Tetouan,Diesel
+125,NISSAN  Qashqai,,Appeler pour le prix,2016,Tetouan,Diesel
+126,JEEP  Wrangler,,Appeler pour le prix,2013,Marrakech,Diesel
+127,JEEP  Wrangler,,Appeler pour le prix,2008,Marrakech,Essence
+128,JAGUAR  F-pace,,Appeler pour le prix,2016,Marrakech,Diesel
+129,MITSUBISHI  L200,,Appeler pour le prix,2015,Marrakech,Diesel
+130,TOYOTA  Fj cruiser,,Appeler pour le prix,2008,Marrakech,Essence
+131,HYUNDAI  H1,,Appeler pour le prix,2009,Casablanca,Diesel
+132,PORSCHE  Macan,,Appeler pour le prix,2020,Casablanca,Essence
+133,LAND-ROVER  Range rover vogue,,Appeler pour le prix,2014,Casablanca,Diesel
+134,PORSCHE  Macan,,Appeler pour le prix,2015,Casablanca,Diesel
+135,MERCEDES  Glc coupe,,Appeler pour le prix,2023,Casablanca,Diesel
+136,TOYOTA  Corolla,,200 000 Dhs,2021,Casablanca,Hybride
+137,TOYOTA  C-hr,,205 000 Dhs,2018,Casablanca,Hybride
+138,PEUGEOT  3008,,305 000 Dhs,2022,Casablanca,Diesel
+139,KIA  Picanto,,98 000 Dhs,2019,Casablanca,Essence
+140,TOYOTA  CorollaSport,Sport,220 000 Dhs,2020,Casablanca,Hybride
+141,HYUNDAI  Santa fe,,279 000 Dhs,2020,Casablanca,Diesel
+142,ALFA-ROMEO  Stelvio,,259 000 Dhs,2019,Casablanca,Diesel
+143,JAGUAR  Xf,,239 000 Dhs,2018,Casablanca,Diesel
+144,ALFA-ROMEO  Stelvio,,269 000 Dhs,2019,Casablanca,Diesel
+145,FORD  Focus 5p,,149 000 Dhs,2018,Casablanca,Diesel
+146,LAND-ROVER  Range rover,,435 000 Dhs,2018,Casablanca,Diesel
+147,VOLKSWAGEN  Passat,,190 000 Dhs,2018,Casablanca,Diesel
+148,MERCEDES  Classe c coupe,,475 000 Dhs,2019,Casablanca,Diesel
+149,TOYOTA  Prado,,288 000 Dhs,2018,Casablanca,Diesel
+150,ALFA-ROMEO  Giulia,,295 000 Dhs,2021,Casablanca,Diesel
+151,KIA  Seltos,,219 000 Dhs,2022,Casablanca,Diesel
+152,PORSCHE  Panamera,,215 000 Dhs,2010,Casablanca,Essence
+153,KIA  Carens,,199 000 Dhs,2022,Casablanca,Diesel
+154,DACIA  Logan,,119 000 Dhs,2018,Casablanca,Diesel
+155,DACIA  Sandero,,147 000 Dhs,2021,Casablanca,Diesel
+156,TOYOTA  Corolla,,238 000 Dhs,2022,Casablanca,Hybride
+157,TOYOTA  HiluxDouble cabine…,Double cabine…,279 000 Dhs,2019,Casablanca,Diesel
+158,RENAULT  Clio,,139 000 Dhs,2019,Casablanca,Diesel
+159,AUDI  Q850tdi sline,50tdi sline,1 220 000 Dhs,2023,Rabat,Diesel
+160,BMW  Serie 7730d pack m,730d pack m,780 000 Dhs,2019,Rabat,Diesel
+161,JAGUAR  Xf,,268 000 Dhs,2018,Rabat,Diesel
+162,VOLVO  Xc60,,318 000 Dhs,2018,Rabat,Diesel
+163,HYUNDAI  Tucson,,218 000 Dhs,2019,Rabat,Diesel
+164,MASERATI  Levante,,435 000 Dhs,2017,Rabat,Essence
+165,BMW  X4,,315 000 Dhs,2015,Rabat,Diesel
+166,LAND-ROVER  Range roverAutobiography…,Autobiography…,Appeler pour le prix,2023,Casablanca,Diesel
+167,MERCEDES  Classe sS 580 e 4matic…,S 580 e 4matic…,Appeler pour le prix,2023,Casablanca,Hybride
+168,AUDI  Q3 sportbackS line,S line,Appeler pour le prix,2022,Casablanca,Diesel
+169,VOLKSWAGEN  TiguanR line 2.0 tdi…,R line 2.0 tdi…,Appeler pour le prix,2023,Casablanca,Diesel
+170,AUDI  E-tron55,55,Appeler pour le prix,2022,Casablanca,Electrique
+171,CITROEN  C3,,146 997 Dhs,2021,Casablanca,Diesel
+172,KIA  PicantoClassic,Classic,62 000 Dhs,2012,Rabat,Essence
+173,CITROEN  Berlingo,,52 000 Dhs,2005,Rabat,Diesel
+174,CITROEN  C4220,220,65 000 Dhs,2006,Rabat,Diesel
+175,DACIA  Logan,,60 000 Dhs,2007,Rabat,Diesel
+176,HYUNDAI  Accent,,45 000 Dhs,2006,Rabat,Diesel
+177,PORSCHE  Cayenne coupeTurbo s,Turbo s,Appeler pour le prix,2020,Casablanca,Electrique
+178,LAND-ROVER  Range rover sportDynamique,Dynamique,Appeler pour le prix,2017,Casablanca,Diesel
+179,BMW  Serie 7,,Appeler pour le prix,2017,Casablanca,Diesel
+180,MERCEDES  Classe c coupe300de,300de,Appeler pour le prix,2023,Casablanca,Diesel
+181,BMW  Serie 5Pack m,Pack m,Appeler pour le prix,2021,Casablanca,Diesel
+182,AUDI  Q5Sline,Sline,Appeler pour le prix,2019,Casablanca,Diesel
+183,MERCEDES  Glc coupe300de,300de,Appeler pour le prix,2022,Casablanca,Electrique
+184,LEXUS  Rx 350h2022,2022,380 000 Dhs,Casablanca,Hybride,Afficher l'annonce
+185,BMW  Serie 5Pack m,Pack m,Appeler pour le prix,2020,Rabat,Diesel
+186,CITROEN  Xsara,,30 500 Dhs,2002,Mohammedia,Essence
+187,VOLVO  Xc60D4,D4,140 000 Dhs,2015,Casablanca,Diesel
+188,MERCEDES  Cls,,Appeler pour le prix,2018,Casablanca,Diesel
+189,HYUNDAI  Elantra,,245 000 Dhs,2023,Casablanca,Hybride
+190,ALFA-ROMEO  Stelvio,,283 000 Dhs,2020,Casablanca,Diesel
+191,BMW  Serie 4 gran coupe,,Appeler pour le prix,2015,Casablanca,Diesel
+192,BMW  X6,,275 000 Dhs,2016,Casablanca,Diesel
+193,VOLVO  S60,,Appeler pour le prix,2019,Tanger,Diesel
+194,PEUGEOT  3008,,288 000 Dhs,2021,Tanger,Diesel
+195,PEUGEOT  208,,195 000 Dhs,2022,Tanger,Diesel
+196,RENAULT  Clio,,143 000 Dhs,2019,Tanger,Diesel
+197,DACIA  Duster,,Appeler pour le prix,2019,Tanger,Diesel
+198,SEAT  LeonFr plus facelift,Fr plus facelift,Appeler pour le prix,2018,Rabat,Diesel
+199,KIA  Picanto1.0i,1.0i,Appeler pour le prix,2023,Rabat,Essence
+200,RENAULT  ExpressIntense,Intense,Appeler pour le prix,2021,Rabat,Diesel
+201,AUDI  Q5,,Appeler pour le prix,2018,Rabat,Diesel
+202,VOLKSWAGEN  Passat ccHigh line,High line,Appeler pour le prix,2017,Rabat,Diesel
+203,LAND-ROVER  Range rover sport,,Appeler pour le prix,2020,Casablanca,Diesel
+204,MERCEDES  Classe ml63 amg,63 amg,200 000 Dhs,2006,Casablanca,Essence
+205,HYUNDAI  Tucson,,Appeler pour le prix,2019,Casablanca,Diesel
+206,FORD  Kuga,,Appeler pour le prix,2011,Casablanca,Diesel
+207,PORSCHE  Cayenne coupe,,Appeler pour le prix,2020,Casablanca,Essence
+208,FIAT  500,,Appeler pour le prix,2021,Casablanca,Essence
+209,LAND-ROVER  Range rover sport,,Appeler pour le prix,2023,Casablanca,Diesel
+210,VOLKSWAGEN  Golf 8,,Appeler pour le prix,2021,Casablanca,Diesel
+211,HYUNDAI  Accent,,Appeler pour le prix,2019,Casablanca,Diesel
+212,HYUNDAI  Tucson,,Appeler pour le prix,2019,Casablanca,Diesel
+213,CITROEN  C1,,53 000 Dhs,Marrakech,Essence,Afficher l'annonce
+214,FORD  MustangEcoboost…,Ecoboost…,7 900 000 Dhs,Casablanca,Essence,Afficher l'annonce
+215,CITROEN  C3,,146 997 Dhs,2021,Casablanca,Diesel
+216,FIAT  500,,Appeler pour le prix,2015,Marrakech,Essence
+217,HYUNDAI  Accent,,Appeler pour le prix,2020,Marrakech,Diesel
+218,DACIA  Logan,,Appeler pour le prix,2019,Marrakech,Diesel
+219,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2019,Marrakech,Diesel
+220,MERCEDES  220,,Appeler pour le prix,2016,Marrakech,Diesel
+221,PORSCHE  Cayenne coupe,,Appeler pour le prix,2022,Tanger,Essence
+222,AUDI  Rs q8,,Appeler pour le prix,2020,Tanger,Essence
+223,VOLKSWAGEN  Golf 8,,Appeler pour le prix,2024,Tanger,Diesel
+224,VOLKSWAGEN  Golf 8,,Appeler pour le prix,2024,Tanger,Diesel
+225,VOLKSWAGEN  TiguanR line,R line,Appeler pour le prix,2024,Tanger,Diesel
+226,KIA  Picanto,,110 000 Dhs,2021,Casablanca,Essence
+227,RENAULT  Clio,,155 000 Dhs,2019,Casablanca,Diesel
+228,DACIA  Logan mcv,,115 000 Dhs,2021,Casablanca,Essence
+229,RENAULT  Clio,,160 000 Dhs,2022,Casablanca,Diesel
+230,DACIA  Sandero stepway,,140 000 Dhs,2022,Casablanca,Diesel
+231,FORD  MustangEcoboost…,Ecoboost…,750 000 Dhs,Casablanca,Essence,Afficher l'annonce
+232,BMW  X7Drive 30 d,Drive 30 d,840 000 Dhs,2021,Casablanca,Diesel
+233,PEUGEOT  Partner tepee,,117 000 Dhs,2018,Rabat,Diesel
+234,MERCEDES  Classe c180 d,180 d,295 000 Dhs,2018,Casablanca,Diesel
+235,AUDI  Q8Tdi quattro,Tdi quattro,790 000 Dhs,2020,Casablanca,Diesel
+236,BMW  Serie 4418d sport,418d sport,275 000 Dhs,2015,Casablanca,Diesel
+237,BMW  Serie 320d pack m,20d pack m,420 000 Dhs,2019,Casablanca,Diesel
+238,BMW  Serie 3Lounge,Lounge,325 500 Dhs,2020,Casablanca,Diesel
+239,MERCEDES  Classe a,,Appeler pour le prix,2016,Rabat,Diesel
+240,PEUGEOT  208,,Appeler pour le prix,2015,Rabat,Diesel
+241,NISSAN  Qashqai,,Appeler pour le prix,2016,Rabat,Diesel
+242,PEUGEOT  208,,Appeler pour le prix,2022,Rabat,Diesel
+243,AUDI  S3,,Appeler pour le prix,2014,Rabat,Essence
+244,PEUGEOT  3008Gt line 2.0 hdi…,Gt line 2.0 hdi…,289 000 Dhs,2020,Tanger,Diesel
+245,OPEL  Grandland1.5d 6cv…,1.5d 6cv…,239 000 Dhs,2021,Tanger,Diesel
+246,BMW  X42.0 20dxdrive…,2.0 20dxdrive…,278 000 Dhs,2014,Tanger,Diesel
+247,AUDI  Rs-q32.5 tfsi 400cv…,2.5 tfsi 400cv…,Appeler pour le prix,2023,Tanger,Essence
+248,VOLKSWAGEN  Tiguan2.0 tdi carat…,2.0 tdi carat…,218 000 Dhs,2013,Tanger,Diesel
+249,BMW  X1,,Appeler pour le prix,2012,Marrakech,Diesel
+250,KIA  Picanto,,Appeler pour le prix,2019,Marrakech,Essence
+251,RENAULT  Kangoo,,Appeler pour le prix,2019,Marrakech,Diesel
+252,LAND-ROVER  Range rover sport,,Appeler pour le prix,2012,Marrakech,Diesel
+253,KIA  Picanto,,Appeler pour le prix,2011,Marrakech,Essence
+254,PORSCHE  911,,Appeler pour le prix,2023,Casablanca,Essence
+255,BMW  M2,,Appeler pour le prix,2023,Casablanca,Essence
+256,MERCEDES  Classe s,,Appeler pour le prix,2023,Casablanca,Hybride
+257,BMW  M5,,980 000 Dhs,2019,Casablanca,Essence
+258,ASTON-MARTIN  Db9,,Appeler pour le prix,2014,Casablanca,Essence
+259,MERCEDES  Classe s,,680 000 Dhs,2018,Casablanca,Diesel
+260,VOLKSWAGEN  Touareg,,380 000 Dhs,2019,Casablanca,Diesel
+261,PORSCHE  Macan,,Appeler pour le prix,2022,Casablanca,Essence
+262,LAND-ROVER  Range rover sport,,470 000 Dhs,2017,Casablanca,Diesel
+263,AUDI  Q3,,540 000 Dhs,2021,Casablanca,Diesel
+264,HYUNDAI  Santa fe,,Appeler pour le prix,2019,Casablanca,Diesel
+265,RENAULT  Megane3amera,3amera,Appeler pour le prix,2020,Casablanca,Diesel
+266,HYUNDAI  Tucson3amera,3amera,Appeler pour le prix,2019,Casablanca,Diesel
+267,NISSAN  Qashqai,,Appeler pour le prix,2019,Casablanca,Diesel
+268,NISSAN  QashqaiAcenta +,Acenta +,Appeler pour le prix,2019,Casablanca,Diesel
+269,HYUNDAI  Accent,,Appeler pour le prix,2019,Casablanca,Diesel
+270,TOYOTA  CorollaPristige,Pristige,Appeler pour le prix,2019,Casablanca,Hybride
+271,BMW  X3X drive,X drive,Appeler pour le prix,2019,Casablanca,Diesel
+272,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2019,Casablanca,Diesel
+273,HYUNDAI  Tucson2023,2023,320 000 Dhs,2023,Casablanca,Diesel
+274,HYUNDAI  Tucson2022,2022,265 000 Dhs,2022,Casablanca,Diesel
+275,RENAULT  Kadjar,,195 000 Dhs,2021,Casablanca,Diesel
+276,BMW  Serie 12,2,280 000 Dhs,2020,Casablanca,Diesel
+277,VOLKSWAGEN  Arteon,,240 000 Dhs,2019,Casablanca,Diesel
+278,PEUGEOT  208,,156 000 Dhs,2022,Casablanca,Diesel
+279,LAND-ROVER  Range rover evoque,,245 000 Dhs,2018,Casablanca,Diesel
+280,HYUNDAI  Tucson,,Appeler pour le prix,2022,Fes,Diesel
+281,PEUGEOT  Rifter,,Appeler pour le prix,2021,Fes,Diesel
+282,CITROEN  C3,,Appeler pour le prix,2019,Fes,Diesel
+283,RENAULT  Kangoo,,Appeler pour le prix,2018,Fes,Diesel
+284,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2017,Fes,Diesel
+285,PORSCHE  911,,Appeler pour le prix,2007,Casablanca,Essence
+286,PORSCHE  Macan,,Appeler pour le prix,2016,Casablanca,Diesel
+287,BMW  Serie 2,,Appeler pour le prix,2014,Casablanca,Diesel
+288,AUDI  Q5 sportback,,Appeler pour le prix,2022,Casablanca,Diesel
+289,VOLVO  Xc90Xc90,Xc90,Appeler pour le prix,2019,Casablanca,Diesel
+290,MERCEDES  Classe c coupe250d pack amg,250d pack amg,Appeler pour le prix,2017,Tanger,Diesel
+291,MERCEDES  Classe c,,315 000 Dhs,2015,Tanger,Diesel
+292,MERCEDES  Classe c,,325 000 Dhs,2015,Tanger,Diesel
+293,MERCEDES  Autre,,490 000 Dhs,2017,Tanger,Diesel
+294,PORSCHE  Macan,,Appeler pour le prix,2015,Tanger,Diesel
+295,PEUGEOT  308 sw,,73 000 Dhs,2008,Casablanca,Essence
+296,MERCEDES  Classe ml,,98 000 Dhs,2011,Casablanca,Diesel
+297,PEUGEOT  307,,73 000 Dhs,2008,Casablanca,Diesel
+298,CITROEN  C6Prestige,Prestige,84 000 Dhs,2010,Casablanca,Diesel
+299,LAND-ROVER  Range rover sport,,118 000 Dhs,2011,Casablanca,Diesel
+300,ALFA-ROMEO  Autre,,330 000 Dhs,2022,Casablanca,Hybride
+301,ALFA-ROMEO  Giulietta,,229 000 Dhs,2023,Casablanca,Diesel
+302,DODGE  Caliber,,330 000 Dhs,2023,Casablanca,Essence
+303,JEEP  Compass,,345 000 Dhs,2022,Casablanca,Hybride
+304,JEEP  Compass,,260 000 Dhs,2022,Casablanca,Essence
+305,JEEP  Renegade,,235 000 Dhs,2020,Casablanca,Diesel
+306,FIAT  500x,,250 000 Dhs,2023,Casablanca,Essence
+307,FIAT  Doblo,,167 999 Dhs,2023,Casablanca,Diesel
+308,FIAT  Panda,,115 000 Dhs,2023,Casablanca,Essence
+309,FIAT  500,,145 000 Dhs,2023,Casablanca,Essence
+310,RENAULT  Kadjar,,225 000 Dhs,2020,Casablanca,Diesel
+311,FIAT  Ducato,,129 000 Dhs,2019,Casablanca,Diesel
+312,PEUGEOT  Partner,,88 000 Dhs,2019,Casablanca,Diesel
+313,FIAT  Doblo,,99 000 Dhs,2018,Casablanca,Diesel
+314,FIAT  Fiorino,,88 000 Dhs,2018,Casablanca,Diesel
+315,DACIA  Dokker van,,125 000 Dhs,2021,Casablanca,Diesel
+316,JAGUAR  Xf,,Appeler pour le prix,2016,Casablanca,Diesel
+317,AUDI  Q8,,Appeler pour le prix,2023,Casablanca,Diesel
+318,AUDI  Q3 sportback,,Appeler pour le prix,2022,Casablanca,Diesel
+319,MERCEDES  Classe c coupe,,Appeler pour le prix,2017,Casablanca,Diesel
+320,RENAULT  Megane sedan,,Appeler pour le prix,2021,Casablanca,Diesel
+321,MERCEDES  Classe e,,509 000 Dhs,2021,Casablanca,Diesel
+322,FORD  Kuga,,310 000 Dhs,2021,Casablanca,Diesel
+323,MERCEDES  Classe c,,Appeler pour le prix,2019,Casablanca,Diesel
+324,MERCEDES  Classe e,,Appeler pour le prix,2022,Casablanca,Diesel
+325,AUDI  Q5,,Appeler pour le prix,2018,Casablanca,Diesel
+326,MERCEDES  Classe e coupe,,Appeler pour le prix,2017,Casablanca,Diesel
+327,MERCEDES  Classe e coupe,,Appeler pour le prix,2017,Casablanca,Diesel
+328,MITSUBISHI  L200,,125 000 Dhs,2015,Casablanca,Diesel
+329,RENAULT  Clio1.5 dci,1.5 dci,131 500 Dhs,2021,Casablanca,Diesel
+330,RENAULT  Captur,,177 000 Dhs,2021,Casablanca,Essence
+331,DACIA  Dokker,,102 000 Dhs,2019,Casablanca,Diesel
+332,DACIA  Logan,,89 000 Dhs,2018,Casablanca,Diesel
+333,PEUGEOT  2008Active,Active,158 000 Dhs,2018,Rabat,Diesel
+334,VOLKSWAGEN  PassatTdi,Tdi,77 000 Dhs,2004,Agadir,Diesel
+335,HYUNDAI  Tucson,,225 000 Dhs,2018,Rabat,Diesel
+336,BMW  Serie 5,,214 000 Dhs,2014,Rabat,Diesel
+337,JEEP  Grand cherokee,,249 000 Dhs,2019,Rabat,Diesel
+338,SKODA  Octavia,,Appeler pour le prix,2020,Marrakech,Diesel
+339,FORD  Focus 5p,,Appeler pour le prix,2023,Marrakech,Diesel
+340,FORD  Focus 5p,,Appeler pour le prix,2023,Marrakech,Diesel
+341,OPEL  Astra,,Appeler pour le prix,2018,Marrakech,Diesel
+342,HYUNDAI  Grand i10,,Appeler pour le prix,2020,Marrakech,Essence
+343,AUDI  A3 sportback,,265 000 Dhs,2016,Casablanca,Diesel
+344,AUDI  Q52.0 tdi,2.0 tdi,233 000 Dhs,2014,Casablanca,Diesel
+345,LAND-ROVER  Range rover evoque,,325 000 Dhs,2018,Casablanca,Diesel
+346,TOYOTA  C-hr,,205 000 Dhs,2019,Casablanca,Hybride
+347,VOLKSWAGEN  Golf 7,,350 000 Dhs,2019,Casablanca,Diesel
+348,JEEP  Cherokee,,48 999 Dhs,2003,Rabat,Essence
+349,BMW  X3X line 20d,X line 20d,280 000 Dhs,Marrakech,Diesel,Afficher l'annonce
+350,MERCEDES  Classe e,,630 000 Dhs,2022,Casablanca,Diesel
+351,OPEL  Crossland,,169 000 Dhs,2021,Casablanca,Diesel
+352,BMW  Serie 1120d,120d,Appeler pour le prix,2018,Casablanca,Diesel
+353,PORSCHE  BoxsterPorsche boxter…,Porsche boxter…,Appeler pour le prix,2008,Casablanca,Essence
+354,AUDI  Rs-q3Audi rsq3 2021,Audi rsq3 2021,Appeler pour le prix,2021,Casablanca,Essence
+355,TOYOTA  Land cruiserLand cruiser tx,Land cruiser tx,Appeler pour le prix,2016,Casablanca,Diesel
+356,VOLVO  Xc40R-design,R-design,Appeler pour le prix,2020,Casablanca,Essence
+357,MINI  CountrymanSd,Sd,215 000 Dhs,2017,Casablanca,Diesel
+358,BMW  X6Coupée 30d…,Coupée 30d…,839 000 Dhs,2022,Marrakech,Diesel
+359,FORD  Fiesta,,131 000 Dhs,2019,Casablanca,Diesel
+360,LAND-ROVER  Range rover sport,,375 000 Dhs,2016,Casablanca,Diesel
+361,PEUGEOT  301,,120 000 Dhs,2019,Casablanca,Diesel
+362,SEAT  Ateca,,235 000 Dhs,2017,Casablanca,Diesel
+363,KIA  Sportage,,190 000 Dhs,2019,Nador,Diesel
+364,MERCEDES  Glc,,Appeler pour le prix,2023,Rabat,Hybride
+365,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2019,Rabat,Diesel
+366,MERCEDES  Classe c,,Appeler pour le prix,2024,Rabat,Diesel
+367,MERCEDES  Classe e,,Appeler pour le prix,1982,Rabat,Diesel
+368,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2024,Rabat,Diesel
+369,AUDI  Q3 sportback,,Appeler pour le prix,2023,Rabat,Diesel
+370,AUDI  Q5,,Appeler pour le prix,2019,Rabat,Diesel
+371,MERCEDES  Classe e,,Appeler pour le prix,2023,Rabat,Diesel
+372,MERCEDES  Cla,,Appeler pour le prix,2020,Rabat,Diesel
+373,MERCEDES  Cl,,Appeler pour le prix,2024,Rabat,Diesel
+374,TOYOTA  Corolla,,220 000 Dhs,2020,Casablanca,Hybride
+375,FORD  Ecosport,,162 000 Dhs,2018,Casablanca,Diesel
+376,DACIA  Duster,,152 000 Dhs,2019,Casablanca,Diesel
+377,DACIA  Sandero stepway,,130 000 Dhs,2022,Casablanca,Diesel
+378,CITROEN  C3,,144 000 Dhs,2020,Casablanca,Diesel
+379,HYUNDAI  Tucson,,335 000 Dhs,2022,Casablanca,Diesel
+380,RENAULT  Megane 4,,Appeler pour le prix,2017,Meknes,Diesel
+381,FORD  Kuga,,Appeler pour le prix,2010,Meknes,Diesel
+382,FORD  Focus 5p,,Appeler pour le prix,2016,Meknes,Diesel
+383,RENAULT  Megane sedan,,Appeler pour le prix,2017,Meknes,Diesel
+384,AUDI  Q5,,Appeler pour le prix,2012,Meknes,Diesel
+385,RENAULT  Megane2,2,59 000 Dhs,Tiflet,Diesel,Afficher l'annonce
+386,FIAT  Doblo,,165 000 Dhs,2023,Casablanca,Diesel
+387,RENAULT  MeganeLife,Life,145 000 Dhs,Tanger,Diesel,Afficher l'annonce
+388,RENAULT  MeganeLife,Life,145 000 Dhs,Ben slimane,Diesel,Afficher l'annonce
+389,ISUZU  D-max,,Appeler pour le prix,2018,Casablanca,Diesel
+390,TOYOTA  Hilux,,Appeler pour le prix,2020,Casablanca,Diesel
+391,RENAULT  Clio,,Appeler pour le prix,2018,Casablanca,Diesel
+392,FIAT  Fullback,,Appeler pour le prix,2018,Casablanca,Diesel
+393,MERCEDES  Classe c,,Appeler pour le prix,2008,Casablanca,Diesel
+394,LAND-ROVER  Range rover evoque,,255 000 Dhs,2018,Casablanca,Diesel
+395,MERCEDES  Classe e coupePack amg line…,Pack amg line…,520 000 Dhs,2019,Casablanca,Diesel
+396,PORSCHE  AutreCayenne coupé…,Cayenne coupé…,Appeler pour le prix,2024,Casablanca,Hybride
+397,MERCEDES  Glc,,650 000 Dhs,2021,Casablanca,Diesel
+398,MERCEDES  Classe e coupe,,Appeler pour le prix,2019,Casablanca,Diesel
+399,VOLKSWAGEN  Golf 8,,Appeler pour le prix,2022,Casablanca,Diesel
+400,VOLKSWAGEN  Multivan,,Appeler pour le prix,2016,Casablanca,Diesel
+401,AUDI  Autre,,Appeler pour le prix,2014,Casablanca,Diesel
+402,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2017,Casablanca,Diesel
+403,VOLKSWAGEN  Golf 8,,Appeler pour le prix,2021,Casablanca,Diesel
+404,VOLVO  Xc90,,420 000 Dhs,2020,Casablanca,Diesel
+405,VOLKSWAGEN  Touareg,,410 000 Dhs,2020,Casablanca,Diesel
+406,OPEL  Corsa,,158 000 Dhs,2022,Casablanca,Diesel
+407,OPEL  Corsa,,158 000 Dhs,2022,Casablanca,Diesel
+408,BMW  X5,,710 000 Dhs,2019,Casablanca,Diesel
+409,HYUNDAI  I20,,143 000 Dhs,2021,Casablanca,Diesel
+410,VOLVO  Xc40,,390 000 Dhs,2023,Casablanca,Essence
+411,VOLKSWAGEN  Touareg,,Appeler pour le prix,2017,Casablanca,Diesel
+412,PORSCHE  Cayenne,,Appeler pour le prix,2015,Casablanca,Diesel
+413,MERCEDES  Classe e cabriolet,,Appeler pour le prix,2022,Casablanca,Diesel
+414,AUDI  Q3Sline,Sline,Appeler pour le prix,2019,Casablanca,Diesel
+415,BENTLEY  Bentayga,,Appeler pour le prix,2019,Casablanca,Diesel
+416,AUDI  Q3,,Appeler pour le prix,2021,Tetouan,Diesel
+417,VOLKSWAGEN  Golf 7,,275 000 Dhs,2018,Tetouan,Diesel
+418,CITROEN  Autre,,108 000 Dhs,2016,Tetouan,Essence
+419,SEAT  Arona,,210 000 Dhs,2023,Tetouan,Diesel
+420,LAND-ROVER  Range rover sport,,Appeler pour le prix,2018,Tetouan,Diesel
+421,LAND-ROVER  Range rover sport,,720 000 Dhs,2022,Casablanca,Diesel
+422,MERCEDES  Gle coupe,,Appeler pour le prix,2023,Casablanca,Diesel
+423,LAND-ROVER  Range rover vogue,,500 000 Dhs,2018,Casablanca,Diesel
+424,JEEP  Grand cherokee,,280 000 Dhs,2020,Casablanca,Diesel
+425,LAND-ROVER  Range rover vogue,,440 000 Dhs,2017,Casablanca,Diesel
+426,MERCEDES  Classe cC220 bleutech,C220 bleutech,260 000 Dhs,2014,Temara,Diesel
+427,OPEL  AstraGsline,Gsline,268 000 Dhs,Casablanca,Diesel,Afficher l'annonce
+428,HYUNDAI  Tucson,,Appeler pour le prix,2019,Casablanca,Diesel
+429,VOLKSWAGEN  T-roc,,Appeler pour le prix,2021,Casablanca,Diesel
+430,MERCEDES  Classe cC220,C220,137 000 Dhs,2008,Nador,Diesel
+431,MERCEDES  Classe e,,78 000 Dhs,1994,Nador,Diesel
+432,MERCEDES  250,,70 000 Dhs,1995,Nador,Diesel
+433,HYUNDAI  Accent,,Appeler pour le prix,2019,Casablanca,Diesel
+434,MERCEDES  Classe ml,,105 000 Dhs,2006,Nador,Diesel
+435,VOLKSWAGEN  Golf 5,,108 000 Dhs,2007,Nador,Diesel
+436,HYUNDAI  Tucson,,Appeler pour le prix,2019,Casablanca,Diesel
+437,HYUNDAI  Tucson,,Appeler pour le prix,2019,Casablanca,Diesel
+438,PORSCHE  Macan(importée…,(importée…,Appeler pour le prix,2023,Casablanca,Essence
+439,AUDI  Q8S line vision…,S line vision…,Appeler pour le prix,2023,Casablanca,Diesel
+440,PORSCHE  Cayenne coupeHybrid…,Hybrid…,Appeler pour le prix,2022,Casablanca,Hybride
+441,BMW  Serie 1120d pack m,120d pack m,Appeler pour le prix,2023,Casablanca,Diesel
+442,PORSCHE  MacanT full options…,T full options…,Appeler pour le prix,2023,Casablanca,Essence
+443,AUDI  A6Sline,Sline,585 000 Dhs,2020,Casablanca,Diesel
+444,VOLVO  Xc90Inscription d5…,Inscription d5…,400 000 Dhs,2016,Casablanca,Diesel
+445,VOLVO  Xc90,,Appeler pour le prix,2018,Casablanca,Diesel
+446,PORSCHE  Cayenne350 pack amg…,350 pack amg…,Appeler pour le prix,2018,Casablanca,Diesel
+447,VOLKSWAGEN  T-roc,,Appeler pour le prix,2020,Casablanca,Essence
+448,JAGUAR  F-pace,,Appeler pour le prix,2018,Casablanca,Diesel
+449,MERCEDES  Classe c,,9 Dhs,2023,Casablanca,Diesel
+450,AUDI  Q5,,Appeler pour le prix,2016,Casablanca,Diesel
+451,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2021,Casablanca,Diesel
+452,JAGUAR  F-pace,,Appeler pour le prix,2016,Casablanca,Diesel
+453,FIAT  Tipo,,135 000 Dhs,2019,Tanger,Diesel
+454,MERCEDES  Classe a,,400 000 Dhs,2019,Tanger,Diesel
+455,HYUNDAI  Tucson,,288 000 Dhs,2021,Tanger,Diesel
+456,SMART  Autre,,75 000 Dhs,2009,Tanger,Diesel
+457,AUDI  Q3 sportback,,540 000 Dhs,2021,Tanger,Diesel
+458,MERCEDES  Autre,,Appeler pour le prix,2016,Casablanca,Essence
+459,JEEP  Wrangler,,Appeler pour le prix,2005,Casablanca,Essence
+460,PORSCHE  911,,Appeler pour le prix,2022,Casablanca,Essence
+461,MERCEDES  Clc,,Appeler pour le prix,2021,Casablanca,Diesel
+462,ROLLS-ROYCE  Ghost,,Appeler pour le prix,2018,Casablanca,Essence
+463,BMW  Serie 7,,Appeler pour le prix,2024,Casablanca,Diesel
+464,MERCEDES  Gle coupeAmg,Amg,550 000 Dhs,2018,Casablanca,Diesel
+465,LAND-ROVER  Defender,,Appeler pour le prix,2023,Casablanca,Essence
+466,MERCEDES  Gle coupe,,Appeler pour le prix,2023,Casablanca,Hybride
+467,BENTLEY  Bentayga,,Appeler pour le prix,2023,Casablanca,Hybride
+468,PORSCHE  Cayenne coupe,,Appeler pour le prix,2023,Casablanca,Hybride
+469,AUDI  Q3,,Appeler pour le prix,2023,Casablanca,Diesel
+470,MERCEDES  Classe ml,,275 000 Dhs,2013,Casablanca,Diesel
+471,VOLKSWAGEN  Coccinelle,,Appeler pour le prix,2020,Casablanca,Diesel
+472,VOLKSWAGEN  Touareg,,Appeler pour le prix,2020,Casablanca,Diesel
+473,BMW  X3,,Appeler pour le prix,2020,Casablanca,Diesel
+474,PORSCHE  Cayenne,,Appeler pour le prix,2020,Casablanca,Essence
+475,BMW  X1,,Appeler pour le prix,2021,Casablanca,Diesel
+476,KIA  Rio,,Appeler pour le prix,2018,Casablanca,Diesel
+477,BMW  X5,,Appeler pour le prix,2020,Casablanca,Diesel
+478,DACIA  Duster,,Appeler pour le prix,2022,Casablanca,Diesel
+479,VOLKSWAGEN  Passat,,Appeler pour le prix,2018,Casablanca,Diesel
+480,AUDI  Q5,,Appeler pour le prix,2018,Casablanca,Diesel
+481,VOLKSWAGEN  Golf 8,,Appeler pour le prix,2024,Casablanca,Diesel
+482,MERCEDES  Gle coupe,,Appeler pour le prix,2024,Casablanca,Hybride
+483,PORSCHE  Autre,,Appeler pour le prix,2023,Casablanca,Essence
+484,AUDI  A8,,Appeler pour le prix,2019,Casablanca,Diesel
+485,PORSCHE  Macan,,Appeler pour le prix,2024,Casablanca,Essence
+486,MERCEDES  Classe aA200 d,A200 d,375 000 Dhs,Casablanca,Diesel,Afficher l'annonce
+487,MINI  Cooper,,Appeler pour le prix,2018,Casablanca,Essence
+488,AUDI  A3 sportback,,Appeler pour le prix,2021,Casablanca,Diesel
+489,LAND-ROVER  Range rover evoque,,Appeler pour le prix,2018,Casablanca,Diesel
+490,PORSCHE  Cayenne,,Appeler pour le prix,2012,Casablanca,Diesel
+491,LAND-ROVER  Range rover sport,,Appeler pour le prix,2016,Casablanca,Diesel
+492,PEUGEOT  3008,,235 000 Dhs,2019,Casablanca,Diesel
+493,TOYOTA  Hilux,,279 000 Dhs,2019,Casablanca,Diesel
+494,PEUGEOT  208,,118 000 Dhs,2018,Casablanca,Diesel
+495,VOLKSWAGEN  Tiguan,,293 000 Dhs,2019,Casablanca,Diesel
+496,VOLKSWAGEN  Golf 7,,221 000 Dhs,2019,Casablanca,Diesel
+497,MERCEDES  Classe c,,Appeler pour le prix,2019,Casablanca,Diesel
+498,AUDI  Autre,,Appeler pour le prix,2024,Casablanca,Diesel
+499,MERCEDES  Gle coupe,,Appeler pour le prix,2023,Casablanca,Hybride
+500,AUDI  Rs3,,Appeler pour le prix,2022,Casablanca,Essence
+501,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2020,Casablanca,Diesel
+502,HYUNDAI  Tucson,,Appeler pour le prix,2019,Casablanca,Diesel
+503,HYUNDAI  Accent,,Appeler pour le prix,2019,Casablanca,Diesel
+504,CITROEN  C3,,139 000 Dhs,2022,Fes,Diesel
+505,DACIA  Dokker,,110 000 Dhs,2021,Fes,Diesel
+506,SEAT  Leon,,135 000 Dhs,2017,Fes,Diesel
+507,CHEVROLET  Aveo,,35 000 Dhs,2006,Fes,Essence
+508,BMW  Serie 3,,105 000 Dhs,2009,Fes,Diesel
+509,PEUGEOT  107,,69 000 Dhs,2011,Casablanca,Essence
+510,VOLKSWAGEN  Touareg,,319 000 Dhs,2019,Casablanca,Diesel
+511,VOLKSWAGEN  Touareg,,153 000 Dhs,2015,Casablanca,Diesel
+512,RENAULT  Kangoo,,135 000 Dhs,2020,Casablanca,Diesel
+513,CITROEN  Berlingo,,159 000 Dhs,2021,Casablanca,Diesel
+514,NISSAN  Pathfinder,,110 000 Dhs,2008,Casablanca,Diesel
+515,RENAULT  Megane,,115 000 Dhs,2015,Casablanca,Diesel
+516,NISSAN  Pathfinder,,110 000 Dhs,2012,Casablanca,Diesel
+517,KIA  Sorento,,93 000 Dhs,2012,Casablanca,Diesel
+518,PEUGEOT  208Gti,Gti,114 000 Dhs,2016,Casablanca,Essence
+519,RENAULT  Express,,154 998 Dhs,2022,Casablanca,Diesel
+520,VOLKSWAGEN  T-roc,,Appeler pour le prix,2021,Casablanca,Diesel
+521,MERCEDES  Cla220d,220d,310 000 Dhs,2019,Casablanca,Diesel
+522,DACIA  Logan,,45 000 Dhs,2013,Tiznit,Essence
+523,MERCEDES  Classe e,,125 000 Dhs,2010,Casablanca,Diesel
+524,KIA  Picanto,,89 000 Dhs,2017,Casablanca,Essence
+525,BMW  Serie 4,,Appeler pour le prix,2023,Casablanca,Diesel
+526,PORSCHE  Panamera,,Appeler pour le prix,2023,Casablanca,Hybride
+527,LAND-ROVER  Range rover vogue,,Appeler pour le prix,2022,Casablanca,Diesel
+528,LAND-ROVER  Range rover,,Appeler pour le prix,2022,Casablanca,Diesel
+529,MERCEDES  Classe c,,Appeler pour le prix,2022,Casablanca,Diesel
+530,TOYOTA  Auris,,Appeler pour le prix,2014,El jadida,Diesel
+531,BMW  Serie 5,,Appeler pour le prix,2020,El jadida,Diesel
+532,VOLKSWAGEN  Touareg,,Appeler pour le prix,2021,El jadida,Diesel
+533,CITROEN  Jumpy,,189 000 Dhs,2019,Casablanca,Diesel
+534,FIAT  Panda,,79 000 Dhs,2018,Casablanca,Essence
+535,KIA  Picanto,,128 000 Dhs,2022,Casablanca,Essence
+536,FIAT  Fullback,,128 000 Dhs,2019,Casablanca,Diesel
+537,VOLKSWAGEN  CcBusiness,Business,158 000 Dhs,2014,Rabat,Diesel
+538,AUDI  Rs-q3,,Appeler pour le prix,2024,Casablanca,Diesel
+539,MERCEDES  GlcAmg line+,Amg line+,Appeler pour le prix,2024,Casablanca,Diesel
+540,VOLKSWAGEN  Golf 8Gtd,Gtd,Appeler pour le prix,2024,Casablanca,Diesel
+541,MERCEDES  Classe c,,Appeler pour le prix,2023,Casablanca,Hybride
+542,AUDI  Rs3,,Appeler pour le prix,2023,Casablanca,Essence
+543,MERCEDES  Classe c,,Appeler pour le prix,2023,Casablanca,Hybride
+544,MERCEDES  Classe e,,Appeler pour le prix,2024,Casablanca,Diesel
+545,VOLKSWAGEN  TiguanR-line,R-line,Appeler pour le prix,2024,Casablanca,Diesel
+546,AUDI  Rs3,,Appeler pour le prix,2024,Casablanca,Essence
+547,MERCEDES  Gle coupe,,Appeler pour le prix,2024,Casablanca,Hybride
+548,VOLKSWAGEN  Jetta,,143 000 Dhs,2018,Rabat,Diesel
+549,VOLVO  S90,,332 000 Dhs,2021,Rabat,Diesel
+550,JAGUAR  Xf,,175 000 Dhs,2012,Rabat,Diesel
+551,MERCEDES  Cla,,369 000 Dhs,2020,Rabat,Diesel
+552,FORD  Focus 5p,,150 000 Dhs,2018,Rabat,Diesel
+553,BMW  Serie 4,,Appeler pour le prix,2023,Casablanca,Diesel
+554,VOLKSWAGEN  Coccinelle,,Appeler pour le prix,2017,Casablanca,Diesel
+555,BMW  Serie 2,,Appeler pour le prix,2017,Casablanca,Diesel
+556,LAND-ROVER  Range rover vogue,,Appeler pour le prix,2014,Casablanca,Diesel
+557,PORSCHE  Cayenne,,Appeler pour le prix,2019,Casablanca,Hybride
+558,VOLKSWAGEN  Multivan,,Appeler pour le prix,2004,Tetouan,Diesel
+559,RENAULT  Megane,,Appeler pour le prix,2015,Tetouan,Diesel
+560,MERCEDES  220220,220,Appeler pour le prix,2011,Tetouan,Diesel
+561,DACIA  Sandero stepway,,Appeler pour le prix,2017,Tetouan,Diesel
+562,FORD  Focus 5p,,Appeler pour le prix,2012,Tetouan,Diesel
+563,FORD  FiestaTrend plus,Trend plus,115 000 Dhs,2016,Casablanca,Diesel
+564,DACIA  Duster4x4,4x4,Appeler pour le prix,2015,Casablanca,Diesel
+565,DACIA  Logan,,Appeler pour le prix,2011,Casablanca,Diesel
+566,NISSAN  Qashqai,,110 000 Dhs,2012,Casablanca,Diesel
+567,FORD  FiestaTrend plus,Trend plus,Appeler pour le prix,2011,Casablanca,Essence
+568,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2024,Casablanca,Diesel
+569,MERCEDES  Glc coupe,,Appeler pour le prix,2024,Casablanca,Hybride
+570,AUDI  Q3 sportback,,Appeler pour le prix,2024,Casablanca,Diesel
+571,MERCEDES  Gle coupeAmg line+,Amg line+,Appeler pour le prix,2024,Casablanca,Hybride
+572,CITROEN  C42007,2007,60 000 Dhs,Casablanca,Diesel,Afficher l'annonce
+573,NISSAN  Qashqai,,Appeler pour le prix,2021,Tanger,Diesel
+574,PEUGEOT  2008,,249 000 Dhs,2021,Tanger,Diesel
+575,PEUGEOT  208,,155 000 Dhs,2021,Tanger,Diesel
+576,FIAT  500,,159 000 Dhs,2022,Tanger,Essence
+577,DACIA  Dokker,,125 000 Dhs,2020,Tanger,Diesel
+578,PORSCHE  Macan,,Appeler pour le prix,2018,Casablanca,Essence
+579,MERCEDES  Classe c,,240 000 Dhs,2011,Casablanca,Essence
+580,BMW  Serie 2,,235 000 Dhs,2017,Casablanca,Diesel
+581,LAND-ROVER  Range rover sport,,440 000 Dhs,2014,Casablanca,Diesel
+582,LAND-ROVER  Range rover sport,,390 000 Dhs,2013,Casablanca,Diesel
+583,VOLVO  V40,,Appeler pour le prix,2019,Casablanca,Diesel
+584,VOLKSWAGEN  Tiguan,,335 000 Dhs,2020,Casablanca,Diesel
+585,AUDI  Q3,,198 000 Dhs,2013,Casablanca,Diesel
+586,MERCEDES  Classe c,,350 000 Dhs,2021,Casablanca,Diesel
+587,LAND-ROVER  Range rover velar,,420 000 Dhs,2019,Casablanca,Diesel
+588,AUDI  A5 sportback,,235 000 Dhs,2013,Tanger,Diesel
+589,BMW  Serie 4 gran coupe,,275 000 Dhs,2018,Tanger,Diesel
+590,MERCEDES  Gle,,Appeler pour le prix,2020,Tanger,Diesel
+591,AUDI  A5 sportback1Ère main a5…,1Ère main a5…,240 000 Dhs,2013,Tanger,Diesel
+592,MERCEDES  Classe c coupe250,250,Appeler pour le prix,2017,Tanger,Diesel
+593,LAND-ROVER  Range rover sport,,Appeler pour le prix,2015,Rabat,Diesel
+594,LAND-ROVER  Range rover velar,,Appeler pour le prix,2020,Rabat,Diesel
+595,MERCEDES  Classe a,,Appeler pour le prix,2019,Rabat,Diesel
+596,PEUGEOT  208,,Appeler pour le prix,2017,Rabat,Diesel
+597,LAND-ROVER  Range rover velar,,Appeler pour le prix,2018,Rabat,Diesel
+598,PEUGEOT  3008,,Appeler pour le prix,2019,Fes,Diesel
+599,RENAULT  Captur,,Appeler pour le prix,2021,Fes,Diesel
+600,HYUNDAI  I20,,Appeler pour le prix,2019,Fes,Diesel
+601,AUDI  Q3,,Appeler pour le prix,2015,Fes,Diesel
+602,FORD  Kuga,,Appeler pour le prix,2019,Fes,Diesel
+603,VOLKSWAGEN  TiguanR line,R line,Appeler pour le prix,2019,Fes,Diesel
+604,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2017,Fes,Diesel
+605,SEAT  Ateca,,Appeler pour le prix,2019,Fes,Diesel
+606,JAGUAR  F-pace,,Appeler pour le prix,2017,Fes,Diesel
+607,PEUGEOT  208,,Appeler pour le prix,2019,Fes,Diesel
+608,CITROEN  C3 pluriel,,150 000 Dhs,2021,Casablanca,Diesel
+609,OPEL  Corsa,,137 000 Dhs,2020,Casablanca,Essence
+610,DACIA  Lodgy,,148 000 Dhs,2023,Casablanca,Diesel
+611,RENAULT  Megane sedan,,204 000 Dhs,2022,Casablanca,Diesel
+612,DACIA  Logan mcv,,106 000 Dhs,2021,Casablanca,Essence
+613,RENAULT  Clio,,Appeler pour le prix,2021,Marrakech,Diesel
+614,HYUNDAI  H100,,Appeler pour le prix,2020,Marrakech,Diesel
+615,KIA  Rio,,Appeler pour le prix,2016,Marrakech,Diesel
+616,MERCEDES  Classe c,,Appeler pour le prix,2015,Marrakech,Diesel
+617,OPEL  Grandland,,235 000 Dhs,2021,Casablanca,Diesel
+618,HYUNDAI  Tucson,,365 000 Dhs,2022,Casablanca,Diesel
+619,HYUNDAI  Accent,,179 000 Dhs,2021,Casablanca,Diesel
+620,NISSAN  Juke,,130 000 Dhs,2015,Casablanca,Diesel
+621,RENAULT  Clio,,177 000 Dhs,2021,Casablanca,Diesel
+622,AUDI  A3 sportback,,Appeler pour le prix,2023,Tanger,Diesel
+623,AUDI  Sq5,,Appeler pour le prix,2023,Tanger,Essence
+624,AUDI  Q3 sportback,,Appeler pour le prix,2024,Tanger,Diesel
+625,MERCEDES  Gle coupe,,Appeler pour le prix,2024,Tanger,Hybride
+626,LAND-ROVER  Range rover evoque,,320 000 Dhs,2016,Nador,Diesel
+627,LAND-ROVER  Range rover evoque,,320 000 Dhs,2018,Nador,Diesel
+628,LAND-ROVER  Range rover sport,,760 000 Dhs,2018,Nador,Diesel
+629,LAND-ROVER  Range rover vogue,,Appeler pour le prix,2019,Nador,Diesel
+630,VOLKSWAGEN  Golf 6,,95 000 Dhs,2010,Nador,Essence
+631,LAND-ROVER  Range rover sportAutobiography,Autobiography,Appeler pour le prix,2019,Casablanca,Diesel
+632,PORSCHE  Cayenne,,Appeler pour le prix,2011,Casablanca,Essence
+633,MERCEDES  Classe eE350d 2009,E350d 2009,Appeler pour le prix,2009,Casablanca,Diesel
+634,AUDI  Sq5 sportback,,Appeler pour le prix,2016,Casablanca,Diesel
+635,LAND-ROVER  Range rover sport,,Appeler pour le prix,2020,Tanger,Essence
+636,MERCEDES  Classe sMaybach,Maybach,Appeler pour le prix,2015,Casablanca,Essence
+637,MERCEDES  Glc,,Appeler pour le prix,2024,Tanger,Diesel
+638,LAMBORGHINI  Autre,,Appeler pour le prix,2024,Tanger,Essence
+639,AUDI  Rs3,,Appeler pour le prix,2023,Tanger,Essence
+640,MERCEDES  Classe g,,Appeler pour le prix,2021,Tanger,Essence
+641,BMW  Serie 5Pack m,Pack m,Appeler pour le prix,2019,Casablanca,Essence
+642,MASERATI  Levante,,Appeler pour le prix,2017,Casablanca,Diesel
+643,PORSCHE  Cayenne coupe,,Appeler pour le prix,2022,Casablanca,Hybride
+644,TESLA  Model s,,485 000 Dhs,2016,Casablanca,Electrique
+645,PEUGEOT  Partner,,126 000 Dhs,2018,Casablanca,Diesel
+646,VOLKSWAGEN  Cc,,225 000 Dhs,2019,Casablanca,Diesel
+647,CITROEN  C3,,118 000 Dhs,2019,Casablanca,Diesel
+648,AUDI  Rs-q3Sportback,Sportback,Appeler pour le prix,2023,Casablanca,Essence
+649,PORSCHE  Macan,,Appeler pour le prix,2022,Casablanca,Essence
+650,MERCEDES  Classe e coupe220d,220d,Appeler pour le prix,2022,Casablanca,Diesel
+651,AUDI  Q8S line…,S line…,Appeler pour le prix,2024,Casablanca,Diesel
+652,AUDI  A8,,Appeler pour le prix,2015,Casablanca,Diesel
+653,AUDI  A6,,Appeler pour le prix,2022,Casablanca,Diesel
+654,PORSCHE  Cayenne coupe,,Appeler pour le prix,2020,Casablanca,Hybride
+655,LAND-ROVER  Range rover sport,,Appeler pour le prix,2019,Casablanca,Diesel
+656,LAND-ROVER  Range rover sport,,Appeler pour le prix,2013,Casablanca,Diesel
+657,VOLKSWAGEN  AutreId. 4 crozz pro,Id. 4 crozz pro,Appeler pour le prix,2022,Casablanca,Electrique
+658,FORD  KugaSt line,St line,Appeler pour le prix,2021,Rabat,Diesel
+659,BMW  Serie 4Pack sport,Pack sport,Appeler pour le prix,2015,Rabat,Diesel
+660,MERCEDES  ClaCla220d amg line,Cla220d amg line,Appeler pour le prix,2020,Rabat,Diesel
+661,BMW  Serie 5Signature,Signature,Appeler pour le prix,2021,Rabat,Diesel
+662,AUDI  Q850tdi quattro s…,50tdi quattro s…,Appeler pour le prix,2019,Rabat,Diesel
+663,CITROEN  C3,,Appeler pour le prix,2019,Casablanca,Diesel
+664,FIAT  Ducato,,Appeler pour le prix,2022,Casablanca,Diesel
+665,TOYOTA  Yaris,,Appeler pour le prix,2022,Casablanca,Essence
+666,HYUNDAI  Tucson2.0d,2.0d,290 000 Dhs,2019,Rabat,Diesel
+667,VOLKSWAGEN  Touareg,,Appeler pour le prix,2013,Marrakech,Diesel
+668,VOLKSWAGEN  Cc,,Appeler pour le prix,2012,Marrakech,Diesel
+669,CITROEN  C4,,Appeler pour le prix,2008,Marrakech,Diesel
+670,NISSAN  Qashqai,,Appeler pour le prix,2015,Marrakech,Diesel
+671,VOLKSWAGEN  Touareg,,Appeler pour le prix,2013,Marrakech,Diesel
+672,RENAULT  Clio,,56 000 Dhs,2007,Rabat,Diesel
+673,RENAULT  Scenic,,62 000 Dhs,2004,Rabat,Diesel
+674,ZOTYE  Nomad,,46 000 Dhs,2011,Rabat,Essence
+675,MERCEDES  Autre,,Appeler pour le prix,2019,Casablanca,Essence
+676,LAND-ROVER  Range rover vogue,,Appeler pour le prix,2021,Casablanca,Hybride
+677,BENTLEY  Continental gtc,,Appeler pour le prix,2021,Casablanca,Essence
+678,MERCEDES  Sl63 amg,63 amg,Appeler pour le prix,2024,Casablanca,Essence
+679,LAND-ROVER  Range rover sportHse dynamique,Hse dynamique,480 000 Dhs,2017,Casablanca,Diesel
+680,VOLKSWAGEN  Tiguan2.0 tdi 240…,2.0 tdi 240…,358 000 Dhs,2017,Tanger,Diesel
+681,TOYOTA  Rav-42.2 d4d silver,2.2 d4d silver,93 000 Dhs,2007,Tanger,Diesel
+682,HYUNDAI  Tucson1.6 crdi luxe…,1.6 crdi luxe…,264 000 Dhs,2019,Tanger,Diesel
+683,AUDI  Rs32.5 tfsi 400…,2.5 tfsi 400…,Appeler pour le prix,2023,Tanger,Essence
+684,NISSAN  Juke1.0 dgi-t 6cv…,1.0 dgi-t 6cv…,169 000 Dhs,2020,Tanger,Essence
+685,FORD  Transit,,149 000 Dhs,2019,Casablanca,Diesel
+686,ALFA-ROMEO  Stelvio,,259 000 Dhs,2019,Rabat,Diesel
+687,MERCEDES  Classe e,,Appeler pour le prix,2014,Rabat,Essence
+688,PEUGEOT  508,,95 000 Dhs,2014,Rabat,Diesel
+689,SEAT  Leon,,155 000 Dhs,2016,Rabat,Diesel
+690,MERCEDES  Classe a,,98 000 Dhs,2011,Rabat,Diesel
+691,OPEL  Autre,,Appeler pour le prix,2018,Casablanca,Essence
+692,LEXUS  Ux,,Appeler pour le prix,2021,Casablanca,Hybride
+693,MERCEDES  Classe e,,Appeler pour le prix,2021,Casablanca,Diesel
+694,BMW  Serie 1,,Appeler pour le prix,2021,Casablanca,Diesel
+695,OPEL  Autre,,Appeler pour le prix,2018,Casablanca,Essence
+696,VOLKSWAGEN  Touareg,,430 000 Dhs,2019,Casablanca,Diesel
+697,MERCEDES  Classe e2,2,283 000 Dhs,2016,Casablanca,Diesel
+698,DACIA  Duster,,163 000 Dhs,2019,Casablanca,Diesel
+699,HYUNDAI  Creta1.6,1.6,178 000 Dhs,2019,Casablanca,Diesel
+700,AUDI  Q5,,238 000 Dhs,2014,Casablanca,Diesel
+701,FORD  Autre,,149 000 Dhs,2016,Rabat,Diesel
+702,JEEP  Cherokee,,178 000 Dhs,2016,Rabat,Diesel
+703,RENAULT  Clio,,120 000 Dhs,2018,Rabat,Diesel
+704,TOYOTA  Hilux,,Appeler pour le prix,2018,Casablanca,Diesel
+705,FIAT  Fullback,,Appeler pour le prix,2020,Casablanca,Diesel
+706,JAGUAR  Xf,,Appeler pour le prix,2016,Casablanca,Diesel
+707,FIAT  Fullback,,Appeler pour le prix,2017,Casablanca,Diesel
+708,HYUNDAI  I30,,Appeler pour le prix,2016,Casablanca,Diesel
+709,VOLVO  Xc90,,530 000 Dhs,2020,Casablanca,Diesel
+710,LAND-ROVER  Range rover evoque,,298 000 Dhs,2018,Casablanca,Diesel
+711,HYUNDAI  Accent,,155 000 Dhs,2020,Casablanca,Diesel
+712,VOLKSWAGEN  Tiguan,,272 000 Dhs,2019,Casablanca,Diesel
+713,AUDI  A3 sportback,,300 000 Dhs,2017,Casablanca,Diesel
+714,NISSAN  Juke,,185 000 Dhs,El jadida,Essence,Afficher l'annonce
+715,LAND-ROVER  Discovery sport2019,2019,37 Dhs,Rabat,Diesel,Afficher l'annonce
+716,LAND-ROVER  Range rover sport,,360 000 Dhs,El jadida,Diesel,Afficher l'annonce
+717,HONDA  Civic2003,2003,45 000 Dhs,Casablanca,Essence,Afficher l'annonce
+718,JEEP  Cherokee,,220 000 Dhs,Casablanca,Diesel,Afficher l'annonce
+719,JEEP  Grand cherokee2015,2015,148 000 Dhs,Oujda,Diesel,Afficher l'annonce
+720,RENAULT  Kadjar,,195 000 Dhs,2017,Rabat,Diesel
+721,SEAT  Arona,,185 000 Dhs,2022,Casablanca,Diesel
+722,NISSAN  Qashqai,,200 000 Dhs,2016,Casablanca,Diesel
+723,RENAULT  Kadjar,,Appeler pour le prix,2017,Meknes,Diesel
+724,MERCEDES  Classe c,,Appeler pour le prix,2013,Meknes,Diesel
+725,LAND-ROVER  Range rover evoque,,Appeler pour le prix,2017,Meknes,Diesel
+726,HYUNDAI  Ix35,,Appeler pour le prix,2012,Meknes,Diesel
+727,HYUNDAI  I30,,Appeler pour le prix,2014,Meknes,Diesel
+728,RENAULT  Clio,,159 000 Dhs,2021,Fes,Diesel
+729,TOYOTA  Corolla,,75 000 Dhs,2008,Fes,Essence
+730,KIA  Picanto,,Appeler pour le prix,2022,Casablanca,Essence
+731,FIAT  500,,Appeler pour le prix,2022,Casablanca,Essence
+732,LAND-ROVER  Range rover sport,,Appeler pour le prix,2016,Casablanca,Diesel
+733,VOLKSWAGEN  Golf 8,,Appeler pour le prix,2021,Casablanca,Diesel
+734,AUDI  Q5,,Appeler pour le prix,2022,Casablanca,Diesel
+735,MERCEDES  Cla,,Appeler pour le prix,2021,Casablanca,Diesel
+736,AUDI  Q3 sportback,,Appeler pour le prix,2023,Casablanca,Diesel
+737,FIAT  PuntoClassique,Classique,35 000 Dhs,Fes,Diesel,Afficher l'annonce
+738,PEUGEOT  308Active,Active,102 000 Dhs,Tanger,Diesel,Afficher l'annonce
+739,AUDI  Q3,,Appeler pour le prix,2021,Tetouan,Diesel
+740,RENAULT  Clio,,118 000 Dhs,2017,Tetouan,Diesel
+741,DACIA  Duster,,178 000 Dhs,2019,Tetouan,Diesel
+742,RENAULT  Clio,,152 000 Dhs,2020,Tetouan,Diesel
+743,LAND-ROVER  Range rover evoque,,Appeler pour le prix,2020,Tetouan,Diesel
+744,MERCEDES  Classe c,,Appeler pour le prix,2019,Casablanca,Diesel
+745,PEUGEOT  5008,,Appeler pour le prix,2020,Casablanca,Diesel
+746,PEUGEOT  3008,,Appeler pour le prix,2019,Casablanca,Diesel
+747,RENAULT  Symbol,,Appeler pour le prix,2011,Casablanca,Essence
+748,MERCEDES  Classe e,,460 000 Dhs,2021,Casablanca,Diesel
+749,AUDI  Rs3,,Appeler pour le prix,2016,Casablanca,Essence
+750,MERCEDES  Classe a,,210 000 Dhs,2016,Casablanca,Diesel
+751,BMW  Serie 5G30,G30,340 000 Dhs,2016,Casablanca,Diesel
+752,MERCEDES  Gle,,580 000 Dhs,2017,Casablanca,Diesel
+753,JEEP  Wrangler,,Appeler pour le prix,2020,Casablanca,Diesel
+754,HYUNDAI  Tucson,,Appeler pour le prix,2023,Casablanca,Diesel
+755,LAND-ROVER  Range rover velar,,Appeler pour le prix,2018,Casablanca,Diesel
+756,AUDI  Q5 sportback,,Appeler pour le prix,2021,Casablanca,Diesel
+757,DACIA  Duster,,Appeler pour le prix,2022,Casablanca,Diesel
+758,AUDI  Q5,,Appeler pour le prix,2018,Casablanca,Diesel
+759,MERCEDES  Cla,,Appeler pour le prix,2020,Casablanca,Diesel
+760,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2015,Casablanca,Diesel
+761,AUDI  Q5,,Appeler pour le prix,2012,Casablanca,Diesel
+762,AUDI  Autre,,Appeler pour le prix,2017,Casablanca,Diesel
+763,MERCEDES  Classe a,,Appeler pour le prix,2020,Casablanca,Diesel
+764,MERCEDES  Autre,,420 000 Dhs,2017,Casablanca,Diesel
+765,PEUGEOT  2008,,265 000 Dhs,2021,Casablanca,Diesel
+766,JAGUAR  Xe,,240 000 Dhs,2016,Casablanca,Diesel
+767,MERCEDES  Glc,,Appeler pour le prix,2023,Rabat,Hybride
+768,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2022,Rabat,Diesel
+769,MERCEDES  Classe c,,Appeler pour le prix,2023,Rabat,Diesel
+770,MERCEDES  Glc,,Appeler pour le prix,2024,Rabat,Hybride
+771,FIAT  500,,144 000 Dhs,2021,Casablanca,Essence
+772,HYUNDAI  Santa fe,,235 000 Dhs,2018,Casablanca,Diesel
+773,HYUNDAI  I20,,135 000 Dhs,2019,Casablanca,Diesel
+774,OPEL  Corsa,,158 000 Dhs,2022,Casablanca,Diesel
+775,SEAT  Ateca,,280 000 Dhs,2020,Casablanca,Diesel
+776,ALFA-ROMEO  Stelvio,,245 000 Dhs,Casablanca,Diesel,Afficher l'annonce
+777,HYUNDAI  Ix35,,Appeler pour le prix,2012,Tetouan,Diesel
+778,VOLKSWAGEN  Golf 7,,Appeler pour le prix,2023,Tetouan,Diesel
+779,RENAULT  Express,,Appeler pour le prix,2022,Tetouan,Diesel
+780,VOLKSWAGEN  Jetta,,Appeler pour le prix,2017,Tetouan,Diesel
+781,DACIA  Sandero stepway,,Appeler pour le prix,2017,Tetouan,Diesel
+782,JAGUAR  Xj,,Appeler pour le prix,2008,Casablanca,Essence
+783,MERCEDES  Classe e,,Appeler pour le prix,2007,Casablanca,Essence
+784,ALFA-ROMEO  Stelvio,,Appeler pour le prix,2019,Casablanca,Diesel
+785,PORSCHE  Panamera,,Appeler pour le prix,2017,Casablanca,Diesel
+786,MERCEDES  Classe c,,Appeler pour le prix,2021,Casablanca,Diesel
+787,KIA  Picanto,,95 000 Dhs,2019,Casablanca,Essence
+788,JEEP  Compass,,219 000 Dhs,2022,Casablanca,Essence
+789,JEEP  Renegade,,218 000 Dhs,2019,Casablanca,Diesel
+790,KIA  Sportage,,220 000 Dhs,2020,Casablanca,Diesel
+791,DACIA  Dokker,,125 000 Dhs,2020,Casablanca,Diesel
+792,BMW  X5,,298 000 Dhs,2016,Casablanca,Diesel
+793,TOYOTA  C-hr,,190 000 Dhs,2018,Casablanca,Hybride
+794,DACIA  Dokker,,128 000 Dhs,2020,Casablanca,Diesel
+795,JEEP  Grand cherokee,,168 000 Dhs,2016,Rabat,Diesel
+796,MERCEDES  Classe c,,348 000 Dhs,2018,Rabat,Diesel
+797,ABARTH  595,,185 000 Dhs,2019,Rabat,Essence
+798,BMW  X4,,255 000 Dhs,2015,Rabat,Diesel
+799,AUDI  Q5,,268 000 Dhs,2015,Rabat,Diesel
+800,MERCEDES  Classe s400 d 4matic…,400 d 4matic…,Appeler pour le prix,2021,Casablanca,Diesel
+801,PORSCHE  Taycan4s (importée…,4s (importée…,Appeler pour le prix,2021,Casablanca,Electrique
+802,MERCEDES  Classe s580 maybach,580 maybach,Appeler pour le prix,2022,Casablanca,Essence
+803,AUDI  A3 sportbackS line,S line,Appeler pour le prix,2022,Casablanca,Diesel
+804,MERCEDES  Gle coupe63s,63s,Appeler pour le prix,2021,Casablanca,Essence
+805,FIAT  Tipo,,135 000 Dhs,2019,Tanger,Diesel
+806,LAND-ROVER  Range rover evoque,,295 000 Dhs,2018,Tanger,Diesel
+807,RENAULT  Captur,,157 000 Dhs,2020,Tanger,Diesel
+808,PEUGEOT  508,,155 000 Dhs,2019,Tanger,Diesel
+809,VOLKSWAGEN  Golf 7,,200 000 Dhs,2018,Tanger,Diesel
+810,PORSCHE  Cayenne,,Appeler pour le prix,2023,Casablanca,Hybride
+811,VOLKSWAGEN  Touareg,,Appeler pour le prix,2023,Casablanca,Diesel
+812,AUDI  Q8,,Appeler pour le prix,2023,Casablanca,Diesel
+813,PORSCHE  Cayenne coupe,,Appeler pour le prix,2023,Casablanca,Hybride
+814,LAND-ROVER  Range rover vogue,,Appeler pour le prix,2020,Casablanca,Diesel
+815,PEUGEOT  308Times new roman,Times new roman,Appeler pour le prix,2016,Rabat,Diesel
+816,JEEP  Grand cherokee,,Appeler pour le prix,2015,Rabat,Diesel
+817,PEUGEOT  308,,Appeler pour le prix,2016,Rabat,Diesel
+818,PEUGEOT  3008,,Appeler pour le prix,2019,Rabat,Diesel
+819,MERCEDES  Gla,,Appeler pour le prix,2019,Rabat,Diesel
+820,LAND-ROVER  Range rover evoque,,Appeler pour le prix,2019,Marrakech,Diesel
+821,HYUNDAI  Ix35,,Appeler pour le prix,2014,Marrakech,Diesel
+822,VOLKSWAGEN  Cc,,Appeler pour le prix,2013,Marrakech,Diesel
+823,SKODA  Octavia2.0 tdi ambiance,2.0 tdi ambiance,147 000 Dhs,2016,Tanger,Diesel
+824,PEUGEOT  508Automatique 6cv,Automatique 6cv,114 000 Dhs,2012,Tanger,Diesel
+825,FORD  Kuga1.5 diesel 6cv…,1.5 diesel 6cv…,258 000 Dhs,2022,Tanger,Diesel
+826,FIAT  5002.0,2.0,94 000 Dhs,2017,Tanger,Essence
+827,VOLKSWAGEN  Polo1.0i fashion…,1.0i fashion…,187 000 Dhs,2022,Tanger,Essence
+828,PORSCHE  Panamera,,920 000 Dhs,2019,Casablanca,Hybride
+829,BENTLEY  Continental gtc,,Appeler pour le prix,2019,Casablanca,Essence
+830,PORSCHE  Cayenne coupe,,960 000 Dhs,2020,Casablanca,Essence
+831,MERCEDES  Gle,,640 000 Dhs,2016,Casablanca,Essence
+832,BMW  Serie 7,,920 000 Dhs,2019,Casablanca,Diesel
+833,MASERATI  Levante,,540 000 Dhs,2019,Casablanca,Diesel
+834,LAND-ROVER  Range rover sport,,Appeler pour le prix,2023,Casablanca,Diesel
+835,MINI  Paceman,,165 000 Dhs,2015,Casablanca,Essence
+836,PORSCHE  Panamera,,950 000 Dhs,2019,Casablanca,Hybride
+837,LAND-ROVER  Range rover sport,,620 000 Dhs,2019,Casablanca,Diesel
+838,PEUGEOT  3008Allure,Allure,215 000 Dhs,Fes,Diesel,Afficher l'annonce
+839,CHERY  A113,,40 000 Dhs,Casablanca,Essence,Afficher l'annonce
+840,HYUNDAI  Tucson,,Appeler pour le prix,2020,Fes,Diesel
+841,VOLKSWAGEN  Caddy,,Appeler pour le prix,2018,Fes,Diesel
+842,MERCEDES  220,,Appeler pour le prix,2014,Fes,Diesel
+843,CITROEN  C3 aircross,,Appeler pour le prix,2019,Fes,Diesel
+844,BENTLEY  Continental gt,,Appeler pour le prix,2016,Casablanca,Essence
+845,LAND-ROVER  Range rover sport,,Appeler pour le prix,2018,Casablanca,Diesel
+846,AUDI  A8,,Appeler pour le prix,2018,Casablanca,Diesel
+847,PORSCHE  911Cabriolet,Cabriolet,Appeler pour le prix,2019,Casablanca,Essence
+848,LAND-ROVER  Range rover evoqueTd4,Td4,Appeler pour le prix,2021,Casablanca,Diesel
+849,BMW  Serie 4 gran coupeLounge,Lounge,275 000 Dhs,2018,Tanger,Diesel
+850,MERCEDES  Classe c220d amg,220d amg,315 000 Dhs,2015,Tanger,Diesel
+851,MERCEDES  Classe cMercedes classe…,Mercedes classe…,325 000 Dhs,2014,Tanger,Diesel
+852,MERCEDES  Classe c220d executive,220d executive,325 000 Dhs,2014,Tanger,Diesel
+853,BMW  Serie 3 gt,,235 000 Dhs,2014,Tanger,Diesel
+854,CITROEN  C6,,84 000 Dhs,2010,Casablanca,Diesel
+855,OPEL  Astra,,78 000 Dhs,2009,Casablanca,Diesel
+856,OPEL  Insignia,,110 000 Dhs,2014,Casablanca,Diesel
+857,PEUGEOT  Boxer,,169 000 Dhs,2019,Casablanca,Diesel
+858,PEUGEOT  106,,119 000 Dhs,2018,Casablanca,Diesel
+859,FIAT  Autre,,95 000 Dhs,2017,Casablanca,Diesel
+860,FIAT  Autre,,79 000 Dhs,2016,Casablanca,Diesel
+861,FIAT  Autre,,90 000 Dhs,2019,Casablanca,Diesel
+862,HYUNDAI  Accent,,Appeler pour le prix,2019,Casablanca,Diesel
+863,VOLKSWAGEN  Golf 8,,Appeler pour le prix,2022,Casablanca,Diesel
+864,BMW  Serie 3,,Appeler pour le prix,2014,Casablanca,Diesel
+865,FIAT  500,,Appeler pour le prix,2015,Casablanca,Essence
+866,BMW  M3,,Appeler pour le prix,2022,Casablanca,Essence
+867,LAND-ROVER  Range rover,,Appeler pour le prix,2017,Casablanca,Diesel
+868,JEEP  Cherokee,,Appeler pour le prix,2015,Casablanca,Diesel
+869,LAND-ROVER  Range rover vogue,,Appeler pour le prix,2019,Casablanca,Diesel
+870,MERCEDES  Classe e,,Appeler pour le prix,2022,Casablanca,Diesel
+871,MERCEDES  Classe c,,Appeler pour le prix,2022,Casablanca,Diesel
+872,CHERY  A113,,41 000 Dhs,Taza,Essence,Afficher l'annonce
+873,OPEL  AdamGlam,Glam,105 000 Dhs,Temara,Essence,Afficher l'annonce
+874,HONDA  Jazz2017,2017,128 000 Dhs,Casablanca,Essence,Afficher l'annonce
+875,HONDA  Jazz2017,2017,128 000 Dhs,Casablanca,Essence,Afficher l'annonce
+876,DACIA  Logan,,73 000 Dhs,2010,Casablanca,Diesel
+877,HYUNDAI  I10,,75 000 Dhs,2014,Casablanca,Diesel
+878,DACIA  Logan,,110 000 Dhs,2017,Casablanca,Diesel
+879,PORSCHE  Cayenne coupe,,Appeler pour le prix,2023,Casablanca,Hybride
+880,BMW  Serie 4 gran coupe,,Appeler pour le prix,2023,Casablanca,Diesel
+881,MERCEDES  Classe g,,Appeler pour le prix,2021,Casablanca,Essence
+882,MERCEDES  Glc,,Appeler pour le prix,2023,Casablanca,Diesel
+883,MERCEDES  Glc coupe,,Appeler pour le prix,2023,Casablanca,Hybride
+884,MINI  Autre,,Appeler pour le prix,2016,Casablanca,Essence
+885,VOLKSWAGEN  Golf 8,,Appeler pour le prix,2023,Casablanca,Diesel
+886,AUDI  A6,,Appeler pour le prix,2024,Casablanca,Diesel
+887,CHEVROLET  Camaro,,Appeler pour le prix,2023,Casablanca,Essence
+888,MERCEDES  Cla,,Appeler pour le prix,2018,Casablanca,Diesel
+889,CUPRA  Formentor,,Appeler pour le prix,2021,Casablanca,Essence
+890,LAND-ROVER  Range rover vogue,,Appeler pour le prix,2016,Casablanca,Diesel
+891,MERCEDES  Classe c,,490 000 Dhs,2019,Casablanca,Diesel
+892,MERCEDES  Classe e,,522 000 Dhs,2019,Casablanca,Diesel
+893,PORSCHE  Cayenne,,1 030 000 Dhs,2020,Casablanca,Hybride
+894,AUDI  Q8,,812 000 Dhs,2020,Casablanca,Diesel
+895,AUDI  Q5,,462 000 Dhs,2021,Casablanca,Diesel
+896,MERCEDES  Classe e,,534 000 Dhs,2019,Casablanca,Diesel
+897,BMW  X3,,372 000 Dhs,2019,Casablanca,Diesel
+898,MERCEDES  Classe c,,Appeler pour le prix,2022,Tanger,Diesel
+899,RENAULT  Clio,,Appeler pour le prix,2023,Tanger,Essence
+900,MERCEDES  Classe c,,Appeler pour le prix,2022,Tanger,Diesel
+901,RENAULT  Clio,,198 000 Dhs,2023,Tanger,Essence
+902,LAND-ROVER  Range rover vogue,,Appeler pour le prix,2024,Tanger,Diesel
+903,MERCEDES  280,,250 000 Dhs,1982,Nador,Essence
+904,CITROEN  Berlingo,,177 000 Dhs,2021,Nador,Diesel
+905,HYUNDAI  Creta,,185 000 Dhs,2017,Nador,Diesel
+906,JEEP  Wrangler,,320 000 Dhs,2017,Nador,Diesel
+907,VOLKSWAGEN  Tiguan,,220 000 Dhs,2012,Nador,Diesel
+908,HYUNDAI  I30,,235 000 Dhs,2021,Casablanca,Diesel
+909,OPEL  Astra,,287 000 Dhs,2022,Casablanca,Diesel
+910,MITSUBISHI  Canter,,205 000 Dhs,2015,Casablanca,Diesel
+911,BMW  Serie 1,,245 000 Dhs,2019,Casablanca,Diesel
+912,SEAT  Ateca,,348 000 Dhs,2022,Casablanca,Diesel
+913,AUDI  A3 sportbackS line,S line,Appeler pour le prix,2020,Fes,Diesel
+914,VOLKSWAGEN  TiguanR line,R line,Appeler pour le prix,2017,Fes,Diesel
+915,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2018,Fes,Diesel
+916,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2019,Fes,Diesel
+917,VOLKSWAGEN  TiguanCarat,Carat,Appeler pour le prix,2018,Fes,Diesel
+918,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2024,Casablanca,Diesel
+919,VOLKSWAGEN  Golf 8,,Appeler pour le prix,2024,Casablanca,Diesel
+920,DFSK  Glory ix5,,180 000 Dhs,2021,Casablanca,Essence
+921,AUDI  A3 sportback,,Appeler pour le prix,2024,Casablanca,Diesel
+922,AUDI  Q8Q8 50 tdi…,Q8 50 tdi…,Appeler pour le prix,2024,Casablanca,Diesel
+923,CITROEN  C5,,118 000 Dhs,2015,Casablanca,Diesel
+924,AUDI  Q8,,735 000 Dhs,2019,Casablanca,Diesel
+925,VOLKSWAGEN  Golf,,180 000 Dhs,2018,Casablanca,Diesel
+926,VOLKSWAGEN  Tiguan,,430 000 Dhs,2021,Casablanca,Diesel
+927,VOLKSWAGEN  Golf,,185 000 Dhs,2019,Casablanca,Diesel
+928,MERCEDES  Classe v,,Appeler pour le prix,2017,Casablanca,Diesel
+929,BMW  X5Pack exclusive,Pack exclusive,420 000 Dhs,2018,Casablanca,Diesel
+930,VOLKSWAGEN  Touareg3.0 v6 tdi,3.0 v6 tdi,Appeler pour le prix,2020,Casablanca,Diesel
+931,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2021,Casablanca,Essence
+932,VOLVO  Xc40,,Appeler pour le prix,2020,Casablanca,Essence
+933,NISSAN  Qashqai,,172 000 Dhs,2017,Casablanca,Diesel
+934,VOLVO  S60,,180 000 Dhs,2016,Casablanca,Diesel
+935,VOLKSWAGEN  Touareg,,152 000 Dhs,2013,Casablanca,Diesel
+936,AUDI  A5 sportback,,478 000 Dhs,2022,Casablanca,Diesel
+937,MERCEDES  Classe c,,593 000 Dhs,2019,Casablanca,Diesel
+938,MERCEDES  Glc coupe,,745 000 Dhs,2020,Casablanca,Diesel
+939,JEEP  Grand cherokee,,192 000 Dhs,2016,Casablanca,Diesel
+940,HYUNDAI  Grand santa fe,,392 000 Dhs,2022,Casablanca,Diesel
+941,DACIA  Logan1.6 dci,1.6 dci,118 000 Dhs,Casablanca,Diesel,Afficher l'annonce
+942,RENAULT  KangooD65,D65,76 000 Dhs,Settat,Diesel,Afficher l'annonce
+943,KIA  Sportage,,210 000 Dhs,2021,Meknes,Diesel
+944,MERCEDES  Classe s400 d 4matic…,400 d 4matic…,Appeler pour le prix,2021,Casablanca,Diesel
+945,AUDI  Q5 sportbackS line 40 tdi…,S line 40 tdi…,Appeler pour le prix,2023,Casablanca,Diesel
+946,VOLKSWAGEN  Golf 8Gtd (imoprtée…,Gtd (imoprtée…,Appeler pour le prix,2021,Casablanca,Diesel
+947,AUDI  Q8S line,S line,Appeler pour le prix,2022,Casablanca,Diesel
+948,VOLKSWAGEN  Golf 8Gtd,Gtd,Appeler pour le prix,2022,Casablanca,Diesel
+949,DACIA  Logan,,100 000 Dhs,Agadir,Diesel,Afficher l'annonce
+950,SEAT  IbizaStyle,Style,143 000 Dhs,Rabat,Essence,Afficher l'annonce
+951,SKODA  Octavia2003,2003,62 000 Dhs,Tan-tan,Diesel,Afficher l'annonce
+952,LAND-ROVER  Discovery sport,,230 368 Dhs,Rabat,Diesel,Afficher l'annonce
+953,HYUNDAI  Ix35Crdi 4wd,Crdi 4wd,175 000 Dhs,Mohammedia,Diesel,Afficher l'annonce
+954,VOLKSWAGEN  Golf 6Golf 6 diesel 2l,Golf 6 diesel 2l,107 000 Dhs,Mohammedia,Diesel,Afficher l'annonce
+955,BMW  Serie 3320i,320i,105 000 Dhs,Ben slimane,Essence,Afficher l'annonce
+956,RENAULT  R4Gtl,Gtl,19 000 Dhs,Agadir,Essence,Afficher l'annonce
+957,VOLKSWAGEN  Golf 8Gti,Gti,395 000 Dhs,Tanger,Essence,Afficher l'annonce
+958,RENAULT  Kadjar,,Appeler pour le prix,2018,Marrakech,Diesel
+959,RENAULT  Clio,,Appeler pour le prix,2021,Marrakech,Diesel
+960,VOLKSWAGEN  Touareg,,Appeler pour le prix,2020,Marrakech,Diesel
+961,VOLKSWAGEN  Passat,,Appeler pour le prix,2019,Marrakech,Diesel
+962,SKODA  Octavia,,Appeler pour le prix,2020,Marrakech,Diesel
+963,NISSAN  Qashqai,,189 998 Dhs,2018,Casablanca,Diesel
+964,VOLKSWAGEN  Golf 7,,337 000 Dhs,2018,Casablanca,Diesel
+965,CHEVROLET  Orlando1.9,1.9,105 000 Dhs,2014,Casablanca,Diesel
+966,AUDI  Q5,,443 000 Dhs,2021,Casablanca,Diesel
+967,AUDI  Q5,,400 000 Dhs,2016,Casablanca,Diesel
+968,DACIA  Logan,,137 000 Dhs,Rabat,Diesel,Afficher l'annonce
+969,SUZUKI  Alto,,30 000 Dhs,Laayoune,Essence,Afficher l'annonce
+970,MERCEDES  Cla220d,220d,240 000 Dhs,2016,Casablanca,Diesel
+971,RENAULT  Megane sedan,,175 000 Dhs,Fes,Diesel,Afficher l'annonce
+972,MERCEDES  Gle coupe,,Appeler pour le prix,2016,Casablanca,Diesel
+973,BENTLEY  Continental gt,,Appeler pour le prix,2019,Casablanca,Essence
+974,VOLKSWAGEN  TouaregR.line one…,R.line one…,Appeler pour le prix,2022,Casablanca,Diesel
+975,MERCEDES  Classe s350,350,Appeler pour le prix,2016,Casablanca,Diesel
+976,JAGUAR  I-paceEv 400 awd,Ev 400 awd,Appeler pour le prix,2022,Casablanca,Electrique
+977,VOLKSWAGEN  TouaregCarat,Carat,245 000 Dhs,Rabat,Diesel,Afficher l'annonce
+978,PEUGEOT  Rifter,,157 000 Dhs,2020,Casablanca,Diesel
+979,PEUGEOT  106,,174 000 Dhs,2021,Casablanca,Diesel
+980,KIA  Ceed,,223 000 Dhs,2021,Casablanca,Diesel
+981,OPEL  Astra,,272 000 Dhs,2023,Casablanca,Diesel
+982,PEUGEOT  208,,Appeler pour le prix,2015,Meknes,Diesel
+983,MITSUBISHI  L200,,Appeler pour le prix,2020,Casablanca,Diesel
+984,VOLKSWAGEN  Amarok,,Appeler pour le prix,2015,Casablanca,Diesel
+985,FIAT  Fullback,,Appeler pour le prix,2019,Casablanca,Diesel
+986,TOYOTA  Hilux,,Appeler pour le prix,2008,Casablanca,Diesel
+987,FIAT  Fullback,,Appeler pour le prix,2017,Casablanca,Diesel
+988,AUDI  Rs3Rs3,Rs3,290 000 Dhs,2016,Casablanca,Essence
+989,AUDI  Rs-q3,,690 000 Dhs,2021,Casablanca,Essence
+990,PORSCHE  Cayenne coupe,,Appeler pour le prix,2024,Casablanca,Hybride
+991,AUDI  Sq5,,Appeler pour le prix,2019,Casablanca,Essence
+992,MERCEDES  Classe c,,Appeler pour le prix,2021,Casablanca,Diesel
+993,MERCEDES  Classe c coupe,,Appeler pour le prix,2018,Casablanca,Diesel
+994,LAND-ROVER  Range rover sport,,Appeler pour le prix,2021,Casablanca,Diesel
+995,AUDI  Q5,,Appeler pour le prix,2021,Casablanca,Diesel
+996,MERCEDES  Cla,,Appeler pour le prix,2020,Casablanca,Diesel
+997,LAND-ROVER  Range rover evoque,,360 000 Dhs,2020,Casablanca,Diesel
+998,MERCEDES  Classe e,,380 000 Dhs,2019,Casablanca,Diesel
+999,OPEL  Adam,,169 000 Dhs,2021,Casablanca,Essence
+1000,FORD  Transit,,122 000 Dhs,2015,Casablanca,Diesel
+1001,RENAULT  Megane1.5 dci life,1.5 dci life,165 000 Dhs,2019,Casablanca,Diesel
+1002,HYUNDAI  H1002.5 td plateau…,2.5 td plateau…,165 000 Dhs,2018,Casablanca,Diesel
+1003,MERCEDES  Classe c220,220,Appeler pour le prix,2011,Tetouan,Diesel
+1004,AUDI  Q5,,Appeler pour le prix,2019,Tetouan,Diesel
+1005,PEUGEOT  2008,,345 000 Dhs,2022,Tetouan,Diesel
+1006,VOLKSWAGEN  Golf 8,,440 000 Dhs,2021,Tetouan,Essence
+1007,AUDI  Q5,,Appeler pour le prix,2020,Tetouan,Diesel
+1008,VOLKSWAGEN  Tiguan,,360 000 Dhs,2019,Casablanca,Diesel
+1009,MERCEDES  Gle coupe,,560 000 Dhs,2018,Casablanca,Diesel
+1010,VOLVO  Xc60,,200 000 Dhs,2016,Casablanca,Diesel
+1011,PORSCHE  Macan,,580 000 Dhs,2020,Casablanca,Essence
+1012,LAND-ROVER  Range rover evoque,,430 000 Dhs,2020,Casablanca,Diesel
+1013,LEXUS  Nx,,382 000 Dhs,2021,Casablanca,Hybride
+1014,MERCEDES  Glc,,315 000 Dhs,2016,Casablanca,Diesel
+1015,VOLKSWAGEN  T-roc,,Appeler pour le prix,2021,Casablanca,Diesel
+1016,VOLKSWAGEN  T-roc,,Appeler pour le prix,2021,Casablanca,Diesel
+1017,FORD  Kuga,,Appeler pour le prix,2011,Casablanca,Diesel
+1018,HYUNDAI  Tucson,,Appeler pour le prix,2019,Casablanca,Diesel
+1019,VOLKSWAGEN  T-roc,,Appeler pour le prix,2021,Casablanca,Diesel
+1020,AUDI  Sq8(importée…,(importée…,Appeler pour le prix,2020,Casablanca,Diesel
+1021,PORSCHE  Cayenne coupeHybrid platinum…,Hybrid platinum…,Appeler pour le prix,2023,Casablanca,Hybride
+1022,MERCEDES  Gle coupe350 de,350 de,Appeler pour le prix,2024,Casablanca,Hybride
+1023,MERCEDES  Sl63 amg,63 amg,Appeler pour le prix,2023,Casablanca,Essence
+1024,MERCEDES  Gle coupe350 de…,350 de…,Appeler pour le prix,2022,Casablanca,Hybride
+1025,PORSCHE  Cayenne,,Appeler pour le prix,2024,Casablanca,Essence
+1026,AUDI  Q8,,Appeler pour le prix,2024,Casablanca,Diesel
+1027,TOYOTA  C-hr,,205 000 Dhs,2019,Casablanca,Hybride
+1028,SKODA  Superb,,348 000 Dhs,2022,Casablanca,Diesel
+1029,TOYOTA  Corolla sport 140,,192 000 Dhs,2021,Casablanca,Hybride
+1030,BMW  Serie 4 gran coupePack m,Pack m,Appeler pour le prix,2023,Casablanca,Diesel
+1031,LAND-ROVER  Range rover vogue,,Appeler pour le prix,2014,Casablanca,Diesel
+1032,MERCEDES  Gle coupe,,Appeler pour le prix,2023,Casablanca,Hybride
+1033,VOLKSWAGEN  Touareg,,Appeler pour le prix,2022,Casablanca,Diesel
+1034,MERCEDES  Glc coupe,,Appeler pour le prix,2018,Casablanca,Diesel
+1035,TOYOTA  C-hr,,215 000 Dhs,2021,Casablanca,Hybride
+1036,RENAULT  Clio,,138 000 Dhs,2019,Casablanca,Diesel
+1037,TOYOTA  Corolla sport 140,,195 000 Dhs,2020,Casablanca,Hybride
+1038,RENAULT  Clio,,158 000 Dhs,2020,Casablanca,Diesel
+1039,VOLKSWAGEN  Golf 8,,Appeler pour le prix,2023,Casablanca,Diesel
+1040,TOYOTA  C-hr,,Appeler pour le prix,2020,Casablanca,Hybride
+1041,AUDI  Autre,,Appeler pour le prix,2024,Casablanca,Diesel
+1042,VOLKSWAGEN  T-roc,,Appeler pour le prix,2024,Casablanca,Diesel
+1043,MERCEDES  Classe c,,Appeler pour le prix,2022,Casablanca,Diesel
+1044,FIAT  500xCross,Cross,145 000 Dhs,Casablanca,Diesel,Afficher l'annonce
+1045,VOLKSWAGEN  Jetta,,93 000 Dhs,Casablanca,Diesel,Afficher l'annonce
+1046,JEEP  Wrangler,,369 000 Dhs,2019,Casablanca,Diesel
+1047,MERCEDES  Classe a,,195 000 Dhs,2015,Casablanca,Diesel
+1048,LAND-ROVER  Range rover evoque,,215 000 Dhs,2016,Casablanca,Diesel
+1049,LAND-ROVER  Range rover sport,,415 000 Dhs,2017,Casablanca,Diesel
+1050,JEEP  Grand cherokee,,Appeler pour le prix,2018,Casablanca,Diesel
+1051,MERCEDES  Cls,,Appeler pour le prix,2020,Casablanca,Diesel
+1052,AUDI  Q8,,Appeler pour le prix,2020,Casablanca,Diesel
+1053,AUDI  Q8,,Appeler pour le prix,2019,Casablanca,Essence
+1054,LAND-ROVER  Range rover,,Appeler pour le prix,2018,Casablanca,Diesel
+1055,BMW  Serie 1,,Appeler pour le prix,2019,Casablanca,Diesel
+1056,PEUGEOT  301,,105 000 Dhs,2018,Rabat,Diesel
+1057,PORSCHE  Macan,,390 000 Dhs,2019,Rabat,Essence
+1058,JEEP  Compass,,210 000 Dhs,2022,Rabat,Diesel
+1059,BMW  Serie 5,,325 000 Dhs,2019,Rabat,Diesel
+1060,BMW  Serie 1,,265 000 Dhs,2018,Rabat,Diesel
+1061,MERCEDES  Classe c,,Appeler pour le prix,2022,Casablanca,Diesel
+1062,RENAULT  MeganePack m,Pack m,259 000 Dhs,2023,Casablanca,Diesel
+1063,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2017,Casablanca,Diesel
+1064,VOLKSWAGEN  Golf 5R32,R32,95 000 Dhs,2007,Casablanca,Essence
+1065,VOLKSWAGEN  Golf 7,,Appeler pour le prix,2015,Tetouan,Diesel
+1066,MERCEDES  Classe c,,Appeler pour le prix,2012,Tetouan,Diesel
+1067,HYUNDAI  Santa fe6,6,Appeler pour le prix,2011,Tetouan,Diesel
+1068,DACIA  Dokker,,Appeler pour le prix,2017,Tetouan,Diesel
+1069,RENAULT  Megane 4,,Appeler pour le prix,2017,Tetouan,Diesel
+1070,MERCEDES  Classe c,,430 000 Dhs,2018,Tanger,Diesel
+1071,DACIA  Duster,,178 000 Dhs,2019,Tanger,Diesel
+1072,KIA  Picanto,,125 000 Dhs,2022,Tanger,Essence
+1073,DACIA  Duster,,Appeler pour le prix,2019,Tanger,Diesel
+1074,TOYOTA  Fortuner,,398 000 Dhs,2021,Tanger,Diesel
+1075,MERCEDES  Glc coupe,,Appeler pour le prix,2017,Casablanca,Essence
+1076,PORSCHE  Macan,,Appeler pour le prix,2018,Casablanca,Essence
+1077,MERCEDES  Glc coupe,,Appeler pour le prix,2017,Casablanca,Essence
+1078,AUDI  A4,,215 000 Dhs,2013,Casablanca,Diesel
+1079,LAND-ROVER  Range rover evoque,,415 000 Dhs,2019,Casablanca,Diesel
+1080,BMW  Serie 1,,175 000 Dhs,2017,Casablanca,Diesel
+1081,BMW  Serie 5,,Appeler pour le prix,2020,Casablanca,Diesel
+1082,LAND-ROVER  Range rover sport,,Appeler pour le prix,2017,Casablanca,Diesel
+1083,TOYOTA  C-hr,,Appeler pour le prix,2019,Casablanca,Hybride
+1084,VOLVO  Xc40,,Appeler pour le prix,2019,Casablanca,Diesel
+1085,MERCEDES  Gle300d 4matic…,300d 4matic…,635 000 Dhs,2019,Tanger,Diesel
+1086,BMW  Autre320d,320d,235 000 Dhs,2014,Tanger,Diesel
+1087,HYUNDAI  Tucson,,Appeler pour le prix,2020,Rabat,Diesel
+1088,MERCEDES  Classe a,,Appeler pour le prix,2019,Rabat,Diesel
+1089,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2020,Rabat,Diesel
+1090,BMW  Serie 5,,Appeler pour le prix,2021,Rabat,Diesel
+1091,VOLKSWAGEN  Golf 7,,Appeler pour le prix,2018,Rabat,Diesel
+1092,AUDI  AutreSline,Sline,Appeler pour le prix,2020,Fes,Diesel
+1093,VOLKSWAGEN  Polo,,Appeler pour le prix,2019,Fes,Diesel
+1094,RENAULT  Koleos,,314 000 Dhs,2021,Casablanca,Diesel
+1095,RENAULT  Captur,,245 000 Dhs,2023,Casablanca,Diesel
+1096,RENAULT  Captur,,237 000 Dhs,2021,Casablanca,Diesel
+1097,DACIA  Logan mcv,,132 000 Dhs,2022,Casablanca,Essence
+1098,RENAULT  Captur,,245 000 Dhs,2022,Casablanca,Diesel
+1099,DACIA  Duster,,Appeler pour le prix,2015,Marrakech,Diesel
+1100,HYUNDAI  Tucson,,Appeler pour le prix,2020,Marrakech,Diesel
+1101,LAND-ROVER  Range rover evoque,,Appeler pour le prix,2018,Marrakech,Diesel
+1102,AUDI  Q5 sportback,,Appeler pour le prix,2017,Marrakech,Diesel
+1103,OPEL  Mokka,,255 000 Dhs,2022,Casablanca,Diesel
+1104,RENAULT  Captur,,155 000 Dhs,2016,Casablanca,Diesel
+1105,OPEL  Mokka,,225 000 Dhs,2022,Casablanca,Diesel
+1106,MASERATI  Ghibli,,295 000 Dhs,2015,Casablanca,Diesel
+1107,DACIA  Sandero stepway,,130 000 Dhs,2020,Casablanca,Diesel
+1108,MERCEDES  Glc,,Appeler pour le prix,2024,Tanger,Hybride
+1109,AUDI  Rs q8,,Appeler pour le prix,2021,Tanger,Diesel
+1110,AUDI  Q5 sportback,,Appeler pour le prix,2023,Tanger,Diesel
+1111,JEEP  Wrangler,,310 000 Dhs,2017,Nador,Diesel
+1112,VOLKSWAGEN  Golf 77.5 gtd,7.5 gtd,320 000 Dhs,2017,Nador,Diesel
+1113,FIAT  500c,,143 000 Dhs,2021,Nador,Essence
+1114,VOLKSWAGEN  Golf 7,,195 000 Dhs,2016,Nador,Diesel
+1115,RENAULT  Clio,,130 000 Dhs,2019,Nador,Diesel
+1116,MERCEDES  Classe g,,Appeler pour le prix,2024,Tanger,Essence
+1117,MERCEDES  Glc,,Appeler pour le prix,2024,Tanger,Diesel
+1118,AUDI  Rs3,,Appeler pour le prix,2022,Tanger,Essence
+1119,PORSCHE  CayennePorsche cayenne…,Porsche cayenne…,Appeler pour le prix,2013,Casablanca,Diesel
+1120,AUDI  Rs3Audi rs3 2022,Audi rs3 2022,Appeler pour le prix,2022,Casablanca,Essence
+1121,MERCEDES  Classe sMercedes s350d,Mercedes s350d,Appeler pour le prix,2014,Casablanca,Diesel
+1122,MERCEDES  Classe s350 ld,350 ld,Appeler pour le prix,2014,Casablanca,Diesel
+1123,VOLKSWAGEN  Golf 8Gtd,Gtd,Appeler pour le prix,2024,Casablanca,Diesel
+1124,MERCEDES  Gle coupe350 de,350 de,Appeler pour le prix,2024,Casablanca,Hybride
+1125,AUDI  Q3 sportbackS line…,S line…,Appeler pour le prix,2024,Casablanca,Diesel
+1126,LAND-ROVER  Range rover vogue,,Appeler pour le prix,2018,Casablanca,Diesel
+1127,MERCEDES  Glc,,Appeler pour le prix,2019,Casablanca,Diesel
+1128,MERCEDES  Clc,,Appeler pour le prix,2018,Casablanca,Diesel
+1129,MERCEDES  Amg gt,,Appeler pour le prix,2023,Casablanca,Hybride
+1130,VOLKSWAGEN  Touareg,,Appeler pour le prix,2021,Casablanca,Diesel
+1131,MERCEDES  Classe ePack amg,Pack amg,Appeler pour le prix,2017,Rabat,Diesel
+1132,MERCEDES  Classe e coupeE220d amg line…,E220d amg line…,Appeler pour le prix,2017,Rabat,Diesel
+1133,BMW  X4Xdrive 20d pack…,Xdrive 20d pack…,Appeler pour le prix,2019,Rabat,Diesel
+1134,LAND-ROVER  Range rover sport3.0 sdv6 306…,3.0 sdv6 306…,Appeler pour le prix,2019,Rabat,Diesel
+1135,BMW  Serie 2 gran coupe216d sport,216d sport,Appeler pour le prix,2021,Rabat,Diesel
+1136,NISSAN  Juke,,Appeler pour le prix,2022,Casablanca,Essence
+1137,KIA  Picanto,,Appeler pour le prix,2021,Casablanca,Essence
+1138,DACIA  Logan,,Appeler pour le prix,2022,Casablanca,Essence
+1139,NISSAN  Qashqai,,Appeler pour le prix,2016,Marrakech,Diesel
+1140,SEAT  Leon,,Appeler pour le prix,2015,Marrakech,Diesel
+1141,DACIA  Logan,,Appeler pour le prix,2022,Marrakech,Diesel
+1142,NISSAN  Qashqai,,Appeler pour le prix,2016,Marrakech,Diesel
+1143,HYUNDAI  Tucson,,Appeler pour le prix,2019,Marrakech,Diesel
+1144,RENAULT  Fluence,,118 000 Dhs,2016,Casablanca,Diesel
+1145,FORD  Kuga,,259 000 Dhs,2021,Casablanca,Diesel
+1146,MINI  Countryman,,Appeler pour le prix,2024,Casablanca,Essence
+1147,FIAT  Fiorino,,85 000 Dhs,2019,Casablanca,Diesel
+1148,FIAT  DucatoLife,Life,129 000 Dhs,2019,Casablanca,Diesel
+1149,PORSCHE  Panamera,,920 000 Dhs,2020,Casablanca,Hybride
+1150,MERCEDES  Classe gBrabus,Brabus,980 000 Dhs,2013,Casablanca,Essence
+1151,LAND-ROVER  Range rover sport,,850 000 Dhs,2022,Casablanca,Essence
+1152,MERCEDES  Classe s,,1 420 000 Dhs,2022,Casablanca,Hybride
+1153,BENTLEY  Continental gt,,Appeler pour le prix,2019,Casablanca,Essence
+1154,AUDI  Sq52.0,2.0,Appeler pour le prix,2022,Tanger,Diesel
+1155,AUDI  Rs-q3,,Appeler pour le prix,2023,Tanger,Essence
+1156,VOLKSWAGEN  Golf 72.0,2.0,209 000 Dhs,2014,Tanger,Diesel
+1157,AUDI  S3,,Appeler pour le prix,2021,Tanger,Essence
+1158,TOYOTA  C-hr1.8 vvt-i…,1.8 vvt-i…,278 000 Dhs,2023,Tanger,Hybride
+1159,PORSCHE  Cayenne,,Appeler pour le prix,2020,Casablanca,Essence
+1160,BMW  X4,,Appeler pour le prix,2020,Casablanca,Diesel
+1161,LAND-ROVER  Range rover vogue,,Appeler pour le prix,2018,Casablanca,Diesel
+1162,MERCEDES  Gle coupe,,Appeler pour le prix,2024,Casablanca,Hybride
+1163,FIAT  500x,,Appeler pour le prix,2019,Casablanca,Diesel
+1164,VOLKSWAGEN  Golf 77.5 gtd 2.0 tdi,7.5 gtd 2.0 tdi,320 000 Dhs,2019,Casablanca,Diesel
+1165,VOLKSWAGEN  TiguanR-line,R-line,430 000 Dhs,2017,Casablanca,Diesel
+1166,VOLKSWAGEN  Tiguan,,270 000 Dhs,2019,Casablanca,Diesel
+1167,AUDI  S3,,885 000 Dhs,2021,Casablanca,Essence
+1168,VOLKSWAGEN  Tiguan2.0 tdi,2.0 tdi,238 000 Dhs,2017,Casablanca,Diesel
+1169,TOYOTA  Hilux,,Appeler pour le prix,2019,Casablanca,Diesel
+1170,FORD  Kuga,,Appeler pour le prix,2018,Casablanca,Diesel
+1171,AUDI  A6,,235 000 Dhs,2017,Casablanca,Diesel
+1172,JAGUAR  Xf,,232 000 Dhs,2016,Casablanca,Diesel
+1173,TOYOTA  Hilux,,Appeler pour le prix,2018,Casablanca,Diesel
+1174,MERCEDES  Classe s,,720 000 Dhs,2020,Casablanca,Diesel
+1175,MERCEDES  Classe e coupe,,482 000 Dhs,2018,Casablanca,Diesel
+1176,JEEP  Grand cherokee,,128 000 Dhs,2013,Casablanca,Diesel
+1177,MITSUBISHI  L200,,Appeler pour le prix,2013,Casablanca,Diesel
+1178,DACIA  Dokker,,Appeler pour le prix,2020,Casablanca,Diesel
+1179,JEEP  Renegade,,180 000 Dhs,Marrakech,Diesel,Afficher l'annonce
+1180,AUDI  A4,,120 000 Dhs,Marrakech,Diesel,Afficher l'annonce
+1181,MERCEDES  Classe cFacelift,Facelift,470 000 Dhs,Meknes,Diesel,Afficher l'annonce
+1182,LAND-ROVER  Range rover evoque,,Appeler pour le prix,2019,Casablanca,Diesel
+1183,VOLKSWAGEN  Touareg,,Appeler pour le prix,2024,Casablanca,Diesel
+1184,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2019,Casablanca,Diesel
+1185,LAND-ROVER  Range rover sport,,Appeler pour le prix,2017,Casablanca,Diesel
+1186,VOLKSWAGEN  T-roc,,Appeler pour le prix,2024,Casablanca,Diesel
+1187,RENAULT  Clio,,118 000 Dhs,2017,Tetouan,Diesel
+1188,MERCEDES  Classe c,,Appeler pour le prix,2016,Tetouan,Diesel
+1189,HYUNDAI  I30,,188 000 Dhs,2020,Tetouan,Diesel
+1190,FORD  Kuga,,185 000 Dhs,2017,Tetouan,Diesel
+1191,LAND-ROVER  Range rover evoque,,370 000 Dhs,2018,Tetouan,Diesel
+1192,MERCEDES  Classe c,,Appeler pour le prix,2016,Casablanca,Diesel
+1193,RENAULT  Megane,,210 000 Dhs,2018,Casablanca,Diesel
+1194,BMW  Serie 1,,Appeler pour le prix,2017,Casablanca,Diesel
+1195,VOLVO  Xc90,,Appeler pour le prix,2019,Casablanca,Diesel
+1196,MERCEDES  Classe e,,Appeler pour le prix,2019,Casablanca,Diesel
+1197,PORSCHE  MacanS,S,650 000 Dhs,2021,Casablanca,Essence
+1198,LAND-ROVER  Range rover,,980 000 Dhs,2021,Casablanca,Essence
+1199,LAND-ROVER  Range rover vogue,,310 000 Dhs,2014,Casablanca,Diesel
+1200,MERCEDES  Classe a,,Appeler pour le prix,2020,Casablanca,Diesel
+1201,AUDI  Rs q8Fuul carbon,Fuul carbon,Appeler pour le prix,2021,Casablanca,Essence
+1202,LAND-ROVER  Range rover sport,,Appeler pour le prix,2021,Casablanca,Diesel
+1203,MERCEDES  Gle coupe,,Appeler pour le prix,2023,Casablanca,Hybride
+1204,MERCEDES  Classe c,,Appeler pour le prix,2014,Casablanca,Diesel
+1205,BMW  Serie 7,,Appeler pour le prix,2016,Casablanca,Diesel
+1206,BMW  X6Pack m,Pack m,Appeler pour le prix,2022,Casablanca,Diesel
+1207,SKODA  Octavia,,Appeler pour le prix,2020,Casablanca,Diesel
+1208,SEAT  Ateca,,Appeler pour le prix,2019,Casablanca,Diesel
+1209,VOLKSWAGEN  Caddy,,Appeler pour le prix,2017,Casablanca,Diesel
+1210,AUDI  Q8,,Appeler pour le prix,2015,Casablanca,Diesel
+1211,AUDI  Q5,,Appeler pour le prix,2018,Casablanca,Diesel
+1212,RENAULT  Clio,,167 997 Dhs,2020,Casablanca,Diesel
+1213,MERCEDES  Classe e,,385 000 Dhs,2019,Casablanca,Diesel
+1214,RENAULT  Koleos,,289 000 Dhs,2021,Casablanca,Diesel
+1215,RENAULT  Clio,,149 000 Dhs,2020,Casablanca,Diesel
+1216,OPEL  Corsa,,145 000 Dhs,2021,Casablanca,Diesel
+1217,TOYOTA  Rav-4,,Appeler pour le prix,2010,Tetouan,Diesel
+1218,MERCEDES  220,,Appeler pour le prix,2012,Tetouan,Diesel
+1219,VOLKSWAGEN  Jetta,,Appeler pour le prix,2017,Tetouan,Diesel
+1220,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2014,Tetouan,Diesel
+1221,RENAULT  Kangoo,,77 000 Dhs,2009,Tetouan,Diesel
+1222,VOLKSWAGEN  Golf 7,,Appeler pour le prix,2015,Casablanca,Diesel
+1223,MERCEDES  Cla,,352 000 Dhs,2018,Casablanca,Diesel
+1224,MERCEDES  Classe g,,Appeler pour le prix,2018,Tanger,Essence
+1225,MERCEDES  Amg gt,,Appeler pour le prix,2023,Tanger,Hybride
+1226,AUDI  S6,,Appeler pour le prix,2020,Tanger,Diesel
+1227,PORSCHE  Macan,,Appeler pour le prix,2022,Tanger,Essence
+1228,BMW  Serie 1,,500 000 Dhs,Tanger,Diesel,Afficher l'annonce
+1229,JEEP  Renegade,,205 000 Dhs,2020,Casablanca,Diesel
+1230,MITSUBISHI  L200,,186 000 Dhs,2022,Casablanca,Diesel
+1231,VOLKSWAGEN  Caddy,,159 000 Dhs,2020,Casablanca,Diesel
+1232,TOYOTA  Corolla prestige 140,,219 000 Dhs,2021,Casablanca,Hybride
+1233,PEUGEOT  3008,,289 000 Dhs,2019,Casablanca,Diesel
+1234,PEUGEOT  208,,169 000 Dhs,2020,Casablanca,Diesel
+1235,DACIA  Dokker,,139 000 Dhs,2020,Casablanca,Diesel
+1236,CITROEN  C-elysee,,136 500 Dhs,2021,Casablanca,Diesel
+1237,LAND-ROVER  Range rover,,295 000 Dhs,2015,Rabat,Diesel
+1238,BMW  X3,,395 000 Dhs,2020,Rabat,Diesel
+1239,RENAULT  Kadjar,,225 000 Dhs,2020,Rabat,Diesel
+1240,VOLVO  Xc90,,293 000 Dhs,2017,Rabat,Diesel
+1241,RENAULT  Kadjar,,225 000 Dhs,2020,Rabat,Diesel
+1242,MERCEDES  Classe e coupe220d coupé…,220d coupé…,Appeler pour le prix,2021,Casablanca,Diesel
+1243,PORSCHE  AutreCarrera turbo s,Carrera turbo s,Appeler pour le prix,2022,Casablanca,Essence
+1244,MERCEDES  Classe a220d (importée…,220d (importée…,Appeler pour le prix,2021,Casablanca,Diesel
+1245,LAND-ROVER  DefenderV8 carpathian…,V8 carpathian…,Appeler pour le prix,2024,Casablanca,Essence
+1246,MERCEDES  Classe s400 d 4matic…,400 d 4matic…,Appeler pour le prix,2024,Casablanca,Diesel
+1247,FIAT  Fiorino,,148 000 Dhs,2023,Casablanca,Diesel
+1248,PEUGEOT  2008,,330 000 Dhs,2023,Casablanca,Diesel
+1249,HYUNDAI  Tucson,,312 000 Dhs,2023,Casablanca,Diesel
+1250,LAND-ROVER  Range rover evoque,,207 000 Dhs,Casablanca,Diesel,Afficher l'annonce
+1251,LAND-ROVER  Range rover velar,,Appeler pour le prix,2018,Casablanca,Diesel
+1252,MERCEDES  Classe g,,Appeler pour le prix,2021,Casablanca,Essence
+1253,MERCEDES  Classe g,,Appeler pour le prix,2021,Casablanca,Essence
+1254,LAND-ROVER  Range rover sport,,Appeler pour le prix,2020,Casablanca,Diesel
+1255,AUDI  Q3 sportback,,Appeler pour le prix,2024,Casablanca,Diesel
+1256,VOLKSWAGEN  Golf 8,,330 000 Dhs,2022,Tanger,Diesel
+1257,HYUNDAI  Elantra,,158 000 Dhs,2019,Tanger,Diesel
+1258,HYUNDAI  Elantra,,153 000 Dhs,2019,Tanger,Diesel
+1259,RENAULT  Megane 4,,186 000 Dhs,2020,Tanger,Diesel
+1260,MERCEDES  Classe a200,200,395 000 Dhs,2019,Tanger,Diesel
+1261,MERCEDES  Classe ml,,70 000 Dhs,2007,Casablanca,Diesel
+1262,FIAT  500x,,165 000 Dhs,2018,Casablanca,Diesel
+1263,RENAULT  Kadjar,,208 000 Dhs,2020,Tanger,Diesel
+1264,AUDI  Autre,,Appeler pour le prix,2014,Tanger,Diesel
+1265,CITROEN  C3,,155 000 Dhs,2022,Tanger,Diesel
+1266,CITROEN  C1,,75 000 Dhs,2012,Tanger,Essence
+1267,RENAULT  Megane,,195 000 Dhs,2021,Tanger,Diesel
+1268,VOLKSWAGEN  Golf 8,,Appeler pour le prix,2021,Casablanca,Diesel
+1269,HYUNDAI  Tucson,,Appeler pour le prix,2019,Casablanca,Diesel
+1270,AUDI  Q5,,355 000 Dhs,2018,Casablanca,Diesel
+1271,LAND-ROVER  Range rover sport,,Appeler pour le prix,2019,Casablanca,Diesel
+1272,BMW  Autre,,Appeler pour le prix,2015,Casablanca,Diesel
+1273,MERCEDES  Glc,,Appeler pour le prix,2018,Casablanca,Diesel
+1274,MERCEDES  Classe e,,Appeler pour le prix,2022,Casablanca,Diesel
+1275,MERCEDES  Gla,,Appeler pour le prix,2019,Rabat,Diesel
+1276,VOLKSWAGEN  Tiguan,,567 000 Dhs,2021,Tanger,Diesel
+1277,MITSUBISHI  L2002.5 pick up…,2.5 pick up…,139 000 Dhs,2019,Tanger,Diesel
+1278,VOLKSWAGEN  Tiguan2.0 tdi…,2.0 tdi…,238 000 Dhs,2017,Tanger,Diesel
+1279,VOLKSWAGEN  Tiguan,,358 000 Dhs,2017,Tanger,Diesel
+1280,CITROEN  C3,,187 000 Dhs,2024,Tanger,Essence
+1281,LAND-ROVER  Range rover vogue,,330 000 Dhs,Rabat,Diesel,Afficher l'annonce
+1282,CUPRA  Formentor,,44 000 Dhs,Tanger,Hybride,Afficher l'annonce
+1283,BENTLEY  Mulsanne,,Appeler pour le prix,2013,Casablanca,Essence
+1284,AUDI  Autre,,330 000 Dhs,2018,Casablanca,Diesel
+1285,LAND-ROVER  Range rover sport,,185 000 Dhs,2013,Casablanca,Diesel
+1286,LAND-ROVER  Range rover sport,,350 000 Dhs,2016,Casablanca,Diesel
+1287,VOLKSWAGEN  Passat,,200 000 Dhs,2017,Casablanca,Diesel
+1288,LAND-ROVER  Range rover sport,,380 000 Dhs,2014,Casablanca,Diesel
+1289,LAND-ROVER  Range rover sport,,Appeler pour le prix,2018,Casablanca,Diesel
+1290,AUDI  Q5 sportback,,Appeler pour le prix,2022,Casablanca,Diesel
+1291,AUDI  A8,,Appeler pour le prix,2018,Casablanca,Diesel
+1292,PORSCHE  MacanMacan s,Macan s,Appeler pour le prix,2016,Casablanca,Diesel
+1293,BMW  Serie 2Sport,Sport,Appeler pour le prix,2014,Casablanca,Diesel
+1294,FIAT  Doblo,,80 000 Dhs,2017,Casablanca,Diesel
+1295,FIAT  Doblo,,115 000 Dhs,2022,Casablanca,Diesel
+1296,AUDI  Q7,,719 000 Dhs,2022,Casablanca,Diesel
+1297,FIAT  Doblo,,98 000 Dhs,2018,Casablanca,Diesel
+1298,RENAULT  Kangoo,,105 000 Dhs,2020,Casablanca,Diesel
+1299,DACIA  Duster,,Appeler pour le prix,2022,Casablanca,Diesel
+1300,LAND-ROVER  Range rover evoque,,Appeler pour le prix,2016,Casablanca,Diesel
+1301,BMW  Serie 5,,Appeler pour le prix,2023,Casablanca,Diesel
+1302,SKODA  Octavia,,Appeler pour le prix,2024,Casablanca,Diesel
+1303,SEAT  Arona,,Appeler pour le prix,2023,Casablanca,Essence
+1304,AUDI  Q5 sportback,,Appeler pour le prix,2021,Casablanca,Diesel
+1305,PORSCHE  Cayenne coupe,,Appeler pour le prix,2023,Casablanca,Essence
+1306,JAGUAR  Xf,,Appeler pour le prix,2016,Casablanca,Diesel
+1307,BMW  Serie 7,,Appeler pour le prix,2020,Casablanca,Diesel
+1308,LAND-ROVER  Range rover evoque,,Appeler pour le prix,2019,Casablanca,Diesel
+1309,BENTLEY  Continental gtc,,Appeler pour le prix,2022,Casablanca,Essence
+1310,MERCEDES  Classe s,,Appeler pour le prix,2018,Casablanca,Diesel
+1311,PORSCHE  Macan,,Appeler pour le prix,2023,Casablanca,Essence
+1312,CADILLAC  Escalade,,Appeler pour le prix,2022,Casablanca,Essence
+1313,AUDI  Q8,,Appeler pour le prix,2019,Casablanca,Diesel
+1314,AUDI  Q8,,Appeler pour le prix,2019,Casablanca,Diesel
+1315,BMW  X5,,Appeler pour le prix,2020,Casablanca,Diesel
+1316,MERCEDES  Gle,,Appeler pour le prix,2016,Casablanca,Diesel
+1317,LAND-ROVER  Range rover sport,,520 000 Dhs,2015,Nador,Diesel
+1318,VOLKSWAGEN  Tiguan,,500 000 Dhs,2022,Nador,Diesel
+1319,HYUNDAI  Creta,,260 000 Dhs,2023,Nador,Diesel
+1320,LAND-ROVER  Range rover sport,,420 000 Dhs,2016,Nador,Diesel
+1321,MERCEDES  Classe c,,730 000 Dhs,2021,Nador,Diesel
+1322,VOLKSWAGEN  Golf 8,,500 000 Dhs,2023,Casablanca,Diesel
+1323,NISSAN  Micra,,138 000 Dhs,2019,Casablanca,Diesel
+1324,BMW  Serie 5520 pack m,520 pack m,495 000 Dhs,2019,Casablanca,Diesel
+1325,OPEL  Astra,,282 000 Dhs,2022,Casablanca,Diesel
+1326,PEUGEOT  3008,,285 000 Dhs,2021,Casablanca,Diesel
+1327,MERCEDES  Glc,,Appeler pour le prix,2024,Casablanca,Diesel
+1328,PORSCHE  911Targa 4 gts,Targa 4 gts,Appeler pour le prix,2023,Casablanca,Essence
+1329,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2023,Casablanca,Diesel
+1330,VOLKSWAGEN  Golf 8,,Appeler pour le prix,2024,Casablanca,Diesel
+1331,MERCEDES  Classe g,,Appeler pour le prix,2023,Casablanca,Essence
+1332,BMW  Serie 4 gran coupe,,226 000 Dhs,2013,Casablanca,Diesel
+1333,RENAULT  Megane sedan,,170 000 Dhs,2019,Casablanca,Diesel
+1334,MERCEDES  Gls,,715 000 Dhs,2019,Casablanca,Diesel
+1335,FORD  Focus 5p,,125 000 Dhs,2015,Casablanca,Diesel
+1336,VOLKSWAGEN  Tiguan,,385 000 Dhs,2020,Casablanca,Diesel
+1337,LAND-ROVER  Range rover velarD300 r dynamique,D300 r dynamique,Appeler pour le prix,2017,Casablanca,Diesel
+1338,LAND-ROVER  Range rover sportHse,Hse,Appeler pour le prix,2016,Casablanca,Diesel
+1339,LAND-ROVER  Range rover sport,,Appeler pour le prix,2018,Casablanca,Diesel
+1340,MERCEDES  Classe e350,350,Appeler pour le prix,2011,Casablanca,Diesel
+1341,MERCEDES  Gle coupePack amg plus…,Pack amg plus…,585 000 Dhs,2016,Casablanca,Diesel
+1342,BMW  Serie 5520d pack m…,520d pack m…,Appeler pour le prix,2023,Rabat,Diesel
+1343,BMW  Serie 4 gran coupePack sport,Pack sport,Appeler pour le prix,2015,Rabat,Diesel
+1344,MERCEDES  Classe cC220d pack amg,C220d pack amg,Appeler pour le prix,2016,Rabat,Diesel
+1345,MERCEDES  Classe eE220d amg,E220d amg,Appeler pour le prix,2017,Rabat,Diesel
+1346,CHERY  Tiggo 4 pro,,Appeler pour le prix,2023,Rabat,Essence
+1347,LAND-ROVER  DiscoverySe,Se,225 000 Dhs,2016,Casablanca,Diesel
+1348,MERCEDES  Glc,,Appeler pour le prix,2017,Casablanca,Essence
+1349,MERCEDES  Glc coupe,,Appeler pour le prix,2017,Casablanca,Essence
+1350,MERCEDES  Classe c,,240 000 Dhs,2011,Casablanca,Essence
+1351,MERCEDES  Glc coupe,,Appeler pour le prix,2017,Casablanca,Essence
+1352,FORD  Fiesta,,139 000 Dhs,2020,Casablanca,Diesel
+1353,MERCEDES  Classe g63 amg,63 amg,Appeler pour le prix,2023,Casablanca,Essence
+1354,BMW  Serie 7740d xdrive…,740d xdrive…,Appeler pour le prix,2023,Casablanca,Diesel
+1355,MERCEDES  Classe g63 amg,63 amg,Appeler pour le prix,2021,Casablanca,Essence
+1356,MERCEDES  Classe c220,220,Appeler pour le prix,2022,Casablanca,Diesel
+1357,MERCEDES  Classe e220d 2024 la…,220d 2024 la…,Appeler pour le prix,2024,Casablanca,Diesel
+1358,JEEP  WranglerJeep wrangler…,Jeep wrangler…,250 000 Dhs,Taroudannt,Diesel,Afficher l'annonce
+1359,LAND-ROVER  FreelanderTd4,Td4,145 000 Dhs,Casablanca,Diesel,Afficher l'annonce
+1360,FORD  Fiesta,,105 000 Dhs,Meknes,Diesel,Afficher l'annonce
+1361,KIA  Picanto,,Appeler pour le prix,2022,Marrakech,Essence
+1362,HYUNDAI  Grand i10,,Appeler pour le prix,2020,Marrakech,Essence
+1363,DACIA  Logan,,Appeler pour le prix,2022,Marrakech,Diesel
+1364,SKODA  Fabia,,Appeler pour le prix,2019,Marrakech,Essence
+1365,OPEL  Astra,,Appeler pour le prix,2018,Marrakech,Diesel
+1366,AUDI  Q5S-line quattro…,S-line quattro…,470 000 Dhs,2018,Casablanca,Diesel
+1367,OPEL  Insignia2.0 cdti 170…,2.0 cdti 170…,210 000 Dhs,2019,Casablanca,Diesel
+1368,RENAULT  Megane 4,,175 000 Dhs,2018,Casablanca,Diesel
+1369,SKODA  Superb2.0,2.0,193 000 Dhs,2019,Casablanca,Diesel
+1370,DS  Ds3 crossback2022,2022,260 000 Dhs,2022,Casablanca,Diesel
+1371,OPEL  CorsaGs line plus,Gs line plus,170 000 Dhs,Casablanca,Diesel,Afficher l'annonce
+1372,DACIA  DusterModule 2015,Module 2015,125 000 Dhs,Ouezzane,Diesel,Afficher l'annonce
+1373,BMW  Serie 5Bmw 520d 2019,Bmw 520d 2019,Appeler pour le prix,2019,Casablanca,Diesel
+1374,AUDI  Rs3Audi rs3 2022,Audi rs3 2022,Appeler pour le prix,2022,Casablanca,Essence
+1375,HYUNDAI  TucsonTucson,Tucson,214 000 Dhs,Marrakech,Diesel,Afficher l'annonce
+1376,HYUNDAI  Tucson2019,2019,214 000 Dhs,Marrakech,Diesel,Afficher l'annonce
+1377,FIAT  Fiorino,,Appeler pour le prix,2022,Casablanca,Diesel
+1378,MITSUBISHI  L200,,Appeler pour le prix,2019,Casablanca,Diesel
+1379,TOYOTA  Hilux,,Appeler pour le prix,2020,Casablanca,Diesel
+1380,TOYOTA  Hilux,,Appeler pour le prix,2020,Casablanca,Diesel
+1381,TOYOTA  Hilux,,Appeler pour le prix,2017,Casablanca,Diesel
+1382,BMW  Serie 640d pack m,40d pack m,260 000 Dhs,2016,Casablanca,Diesel
+1383,MERCEDES  GlePack amg line…,Pack amg line…,580 000 Dhs,2017,Casablanca,Diesel
+1384,MERCEDES  Classe a200d pack amg,200d pack amg,210 000 Dhs,2016,Casablanca,Diesel
+1385,ROVER  AutreRange rover…,Range rover…,310 000 Dhs,2014,Casablanca,Diesel
+1386,DS  Ds7 crossback,,274 999 Dhs,2019,Casablanca,Diesel
+1387,CITROEN  C3,,149 000 Dhs,2021,Casablanca,Diesel
+1388,BMW  Serie 5,,200 000 Dhs,2013,Casablanca,Diesel
+1389,RENAULT  Clio,,175 000 Dhs,2023,Casablanca,Diesel
+1390,DACIA  Logan,,94 000 Dhs,2019,Casablanca,Diesel
+1391,VOLKSWAGEN  Golf 8,,450 000 Dhs,2021,Tetouan,Essence
+1392,VOLKSWAGEN  Polo,,280 000 Dhs,2020,Tetouan,Diesel
+1393,SEAT  Ateca,,380 000 Dhs,2023,Tetouan,Diesel
+1394,VOLKSWAGEN  Tiguan,,360 000 Dhs,2017,Tetouan,Diesel
+1395,SEAT  Ateca,,345 000 Dhs,2022,Tetouan,Diesel
+1396,MERCEDES  Cla,,240 000 Dhs,2014,Casablanca,Diesel
+1397,MERCEDES  Classe c,,480 000 Dhs,2020,Casablanca,Diesel
+1398,BENTLEY  Bentayga,,Appeler pour le prix,2018,Casablanca,Diesel
+1399,AUDI  Q3,,580 000 Dhs,2023,Casablanca,Diesel
+1400,AUDI  Q3 sportbackS line…,S line…,Appeler pour le prix,2023,Casablanca,Diesel
+1401,ASTON-MARTIN  VantageV8,V8,Appeler pour le prix,2023,Casablanca,Essence
+1402,AUDI  Q3 sportbackS-line…,S-line…,Appeler pour le prix,2021,Casablanca,Diesel
+1403,AUDI  Q3 sportbackS-line…,S-line…,Appeler pour le prix,2021,Casablanca,Diesel
+1404,AUDI  Q8S line…,S line…,Appeler pour le prix,2023,Casablanca,Diesel
+1405,MERCEDES  Classe sAmg,Amg,Appeler pour le prix,2014,Casablanca,Diesel
+1406,MERCEDES  Classe e coupe220 amg line,220 amg line,Appeler pour le prix,2019,Casablanca,Diesel
+1407,LAND-ROVER  Discovery sport,,Appeler pour le prix,2015,Casablanca,Diesel
+1408,PORSCHE  MacanPack sport plus,Pack sport plus,Appeler pour le prix,2014,Casablanca,Diesel
+1409,PORSCHE  CayenneHighline,Highline,Appeler pour le prix,2013,Casablanca,Diesel
+1410,VOLKSWAGEN  Passat,,Appeler pour le prix,2017,Tanger,Diesel
+1411,BMW  Serie 3,,225 000 Dhs,2015,Tanger,Diesel
+1412,LAND-ROVER  Range rover,,386 000 Dhs,2015,Tanger,Diesel
+1413,HYUNDAI  Accent,,140 000 Dhs,2019,Tanger,Diesel
+1414,LAND-ROVER  Range rover sport,,355 000 Dhs,2015,Tanger,Diesel
+1415,ROLLS-ROYCE  Wraith,,Appeler pour le prix,2018,Casablanca,Essence
+1416,FERRARI  California,,Appeler pour le prix,2012,Casablanca,Essence
+1417,VOLVO  Xc90,,Appeler pour le prix,2019,Casablanca,Diesel
+1418,MASERATI  Granturismo,,Appeler pour le prix,2018,Casablanca,Essence
+1419,FERRARI  California,,Appeler pour le prix,2012,Casablanca,Essence
+1420,PORSCHE  911,,Appeler pour le prix,2020,Casablanca,Essence
+1421,MERCEDES  Classe e,,Appeler pour le prix,2023,Casablanca,Diesel
+1422,MERCEDES  Glc,,Appeler pour le prix,2023,Casablanca,Diesel
+1423,LAND-ROVER  Range rover sport,,Appeler pour le prix,2018,Casablanca,Essence
+1424,MERCEDES  Classe g,,Appeler pour le prix,2021,Casablanca,Diesel
+1425,MERCEDES  Gle coupe,,Appeler pour le prix,2018,Casablanca,Diesel
+1426,LAND-ROVER  Range rover sport,,Appeler pour le prix,2019,Casablanca,Diesel
+1427,BMW  Serie 5,,Appeler pour le prix,2021,Casablanca,Diesel
+1428,MERCEDES  Cla,,Appeler pour le prix,2021,Casablanca,Diesel
+1429,MERCEDES  Classe s,,Appeler pour le prix,2015,Casablanca,Diesel
+1430,HYUNDAI  Accent,,Appeler pour le prix,2022,Casablanca,Diesel
+1431,FIAT  Fiorino,,Appeler pour le prix,2021,Casablanca,Diesel
+1432,RENAULT  Megane 4,,Appeler pour le prix,2017,Casablanca,Diesel
+1433,FIAT  Fiorino,,Appeler pour le prix,2021,Casablanca,Diesel
+1434,CADILLAC  Escalade,,Appeler pour le prix,2022,Casablanca,Essence
+1435,AUDI  Q8,,Appeler pour le prix,2024,Casablanca,Diesel
+1436,AUDI  Q3 sportbackQ3 s-line,Q3 s-line,Appeler pour le prix,2023,Casablanca,Diesel
+1437,AUDI  Q3 sportback,,Appeler pour le prix,2024,Casablanca,Diesel
+1438,AUDI  Q3 sportback,,Appeler pour le prix,2024,Casablanca,Diesel
+1439,MERCEDES  Gle coupe,,Appeler pour le prix,2024,Casablanca,Hybride
+1440,AUDI  Rs3,,Appeler pour le prix,2023,Casablanca,Essence
+1441,MERCEDES  Classe e coupe,,Appeler pour le prix,2017,Casablanca,Diesel
+1442,MERCEDES  Classe a,,Appeler pour le prix,2021,Casablanca,Diesel
+1443,MERCEDES  Classe e coupe,,Appeler pour le prix,2018,Casablanca,Diesel
+1444,AUDI  Rs q8,,Appeler pour le prix,2020,Casablanca,Essence
+1445,VOLKSWAGEN  Touareg,,359 000 Dhs,2019,Casablanca,Diesel
+1446,VOLKSWAGEN  Touareg,,Appeler pour le prix,2024,Casablanca,Diesel
+1447,MERCEDES  Classe a,,Appeler pour le prix,2020,Casablanca,Diesel
+1448,AUDI  Q5,,Appeler pour le prix,2023,Casablanca,Diesel
+1449,AUDI  Q5,,Appeler pour le prix,2022,Casablanca,Hybride
+1450,AUDI  Q3 sportback,,Appeler pour le prix,2023,Casablanca,Diesel
+1451,BMW  Serie 3316d,316d,225 000 Dhs,Marrakech,Diesel,Afficher l'annonce
+1452,BMW  Serie 1,,290 000 Dhs,Tanger,Diesel,Afficher l'annonce
+1453,VOLKSWAGEN  Golf 8,,Appeler pour le prix,2023,Tanger,Essence
+1454,PORSCHE  Cayenne coupe,,1 270 000 Dhs,Tanger,Hybride,Afficher l'annonce
+1455,PORSCHE  Macan,,860 000 Dhs,Tanger,Essence,Afficher l'annonce
+1456,BMW  Serie 1,,Appeler pour le prix,2019,Tanger,Essence
+1457,PORSCHE  Cayenne coupe,,Appeler pour le prix,2023,Casablanca,Hybride
+1458,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2019,Casablanca,Diesel
+1459,MERCEDES  Classe c,,Appeler pour le prix,2023,Casablanca,Diesel
+1460,NISSAN  Note,,100 000 Dhs,Autre,Diesel,Afficher l'annonce
+1461,PEUGEOT  208,,Appeler pour le prix,2019,Tetouan,Diesel
+1462,VOLVO  Xc60D4 r design 163…,D4 r design 163…,235 000 Dhs,Casablanca,Diesel,Afficher l'annonce
+1463,DACIA  Duster1.5 dci 110 edc,1.5 dci 110 edc,175 000 Dhs,2019,Tanger,Diesel
+1464,SKODA  Octavia,,188 000 Dhs,2020,Tanger,Diesel
+1465,PEUGEOT  5008,,Appeler pour le prix,2020,Tanger,Diesel
+1466,ALFA-ROMEO  Stelvio,,Appeler pour le prix,2019,Tanger,Diesel
+1467,CITROEN  C4 picasso,,150 000 Dhs,2018,Tanger,Diesel
+1468,PORSCHE  Macan,,Appeler pour le prix,2018,Casablanca,Essence
+1469,MERCEDES  Glc,,Appeler pour le prix,2017,Casablanca,Essence
+1470,MERCEDES  Glc coupe,,Appeler pour le prix,2017,Casablanca,Essence
+1471,PORSCHE  Macan,,Appeler pour le prix,2018,Casablanca,Essence
+1472,MERCEDES  Glc coupe,,Appeler pour le prix,2018,Casablanca,Essence
+1473,VOLVO  S90,,Appeler pour le prix,2021,Casablanca,Diesel
+1474,VOLVO  Xc40,,Appeler pour le prix,2019,Casablanca,Diesel
+1475,LAND-ROVER  Range rover sport,,Appeler pour le prix,2017,Casablanca,Diesel
+1476,VOLKSWAGEN  Arteon,,Appeler pour le prix,2019,Casablanca,Diesel
+1477,VOLKSWAGEN  Tiguan,,Appeler pour le prix,2020,Casablanca,Diesel
+1478,RENAULT  Megane sedan,,235 000 Dhs,2022,Casablanca,Diesel
+1479,RENAULT  Clio,,185 000 Dhs,2022,Casablanca,Diesel
+1480,DACIA  Logan mcv,,92 000 Dhs,2018,Casablanca,Essence
+1481,DACIA  Logan mcv,,145 000 Dhs,2022,Casablanca,Essence
+1482,RENAULT  Talisman,,300 000 Dhs,2021,Casablanca,Diesel
+1483,LAND-ROVER  Range rover sport,,Appeler pour le prix,2017,Marrakech,Diesel
+1484,OPEL  Corsa,,Appeler pour le prix,2021,Marrakech,Essence
+1485,MERCEDES  Cla,,Appeler pour le prix,2016,Marrakech,Diesel
+1486,LAND-ROVER  Range rover evoque,,Appeler pour le prix,2019,Marrakech,Diesel
+1487,VOLKSWAGEN  Touareg,,Appeler pour le prix,2021,Marrakech,Diesel
+1488,SEAT  Ibiza,,118 000 Dhs,2017,Casablanca,Diesel
+1489,HYUNDAI  Accent,,179 000 Dhs,2021,Casablanca,Diesel
+1490,MERCEDES  Classe c,,375 000 Dhs,2019,Casablanca,Diesel
+1491,HYUNDAI  I20,,133 000 Dhs,2019,Casablanca,Diesel
+1492,AUDI  A6,,435 000 Dhs,2020,Casablanca,Diesel
+1493,DACIA  Sandero stepway,,142 000 Dhs,2022,Nador,Essence
+1494,DACIA  Sandero stepway,,146 000 Dhs,2022,Nador,Essence
+1495,PORSCHE  Cayenne,,1 850 000 Dhs,2023,Nador,Hybride
+1496,LAND-ROVER  Range rover velar,,380 000 Dhs,2017,Nador,Diesel
+1497,VOLKSWAGEN  Tiguan,,540 000 Dhs,2021,Nador,Diesel
+1498,MERCEDES  Classe v300d,300d,Appeler pour le prix,2024,Casablanca,Diesel
+1499,PORSCHE  Cayenne coupePlatinum…,Platinum…,Appeler pour le prix,2023,Casablanca,Hybride
+1500,MERCEDES  Glc220d amg line…,220d amg line…,Appeler pour le prix,2023,Casablanca,Diesel
+1501,MERCEDES  AutreCle 220d,Cle 220d,Appeler pour le prix,2024,Casablanca,Diesel
+1502,PORSCHE  Cayenne,,Appeler pour le prix,2024,Casablanca,Hybride
+1503,LAND-ROVER  Range rover evoque,,Appeler pour le prix,2018,Rabat,Diesel
+1504,SEAT  LeonFr,Fr,Appeler pour le prix,2018,Rabat,Diesel
+1505,LAND-ROVER  Range rover evoque,,Appeler pour le prix,2020,Rabat,Diesel
+1506,SEAT  Ibiza1.6 tdi 95 fr,1.6 tdi 95 fr,Appeler pour le prix,2021,Rabat,Diesel
+1507,VOLKSWAGEN  Golf 7Golf 7.5 2.0…,Golf 7.5 2.0…,Appeler pour le prix,2021,Rabat,Diesel
+1508,MERCEDES  Classe g,,Appeler pour le prix,2021,Tanger,Essence
+1509,MERCEDES  Classe a,,287 000 Dhs,2015,Tanger,Diesel
+1510,HYUNDAI  Grand santa fe,,248 000 Dhs,2018,Tanger,Diesel
+1511,HYUNDAI  Tucson,,339 000 Dhs,2021,Tanger,Diesel
+1512,FORD  Kuga,,124 000 Dhs,2012,Tanger,Diesel
+1513,MERCEDES  Classe c coupe,,513 000 Dhs,2019,Casablanca,Diesel
+1514,AUDI  Q5,,435 000 Dhs,2018,Casablanca,Diesel
+1515,PEUGEOT  3081.6,1.6,158 000 Dhs,2017,Casablanca,Diesel
+1516,HYUNDAI  Santa fe2.2 d,2.2 d,320 000 Dhs,2019,Casablanca,Diesel
+1517,FORD  Kuga1.5,1.5,195 000 Dhs,2018,Casablanca,Diesel
+1518,TOYOTA  Hilux,,Appeler pour le prix,2019,Casablanca,Diesel
+1519,VOLKSWAGEN  Golf 7,,Appeler pour le prix,2017,Casablanca,Diesel
+1520,TOYOTA  Hilux,,Appeler pour le prix,2019,Casablanca,Diesel
+1521,DACIA  Dokker,,Appeler pour le prix,2019,Casablanca,Diesel
+1522,TOYOTA  Hilux,,Appeler pour le prix,2016,Casablanca,Diesel
+1523,VOLKSWAGEN  Jetta,,185 000 Dhs,2018,Casablanca,Diesel
+1524,AUDI  Q8,,850 000 Dhs,2019,Casablanca,Diesel
+1525,AUDI  Autre,,250 000 Dhs,2017,Casablanca,Diesel
+1526,NISSAN  Micra,,158 000 Dhs,2021,Casablanca,Diesel
+1527,VOLKSWAGEN  Cc,,195 000 Dhs,2016,Casablanca,Diesel
+1528,PEUGEOT  3008Gt line,Gt line,240 000 Dhs,Kenitra,Diesel,Afficher l'annonce
+1529,FIAT  500,,90 000 Dhs,Fes,Diesel,Afficher l'annonce
